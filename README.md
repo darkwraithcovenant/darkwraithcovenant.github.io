@@ -1,4 +1,4 @@
-### Hi there fidasjdsaj 👋
+### Hi there 👋
 
 <!--
 **darkwraithcovenant/darkwraithcovenant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
