@@ -1,5 +1,11 @@
 # Darkwraith Covenant Industries Incorporated
-## 🗡️🗡️🗡️ Misfortune 500 company and Occultist⛧ Paramilitary🪖 Defense🚀 Corporation📈, specializing in Heavy Industry🏭, Noise Research & Production🔊, and Propaganda Dissemination📰. Our company is made up of the following divisions: Electronic Signals Intelligence📡, Psychotronic Warfare🛰️, Aural Weapons Research🔇, and Agitprop and Subliminal Messaging📺. DWC Inc also sells clothing products made as ethically as possible, to the disappointment of our Board of Directors, who are heavily invested in the suffering of marginalized humans in the Global South.🗡️🗡️🗡️
+## 🗡️🗡️🗡️Darkwraith Covenant Industries Inc. is a name that strikes fear and awe into the hearts of many, and for good reason. We are a Misfortune 500 company based out of the Silicon Forest🌲 in Portland, OR, specializing in the dark arts of Occultism⛧ and Paramilitary🪖 Defense🚀. Our divisions are dedicated to the advancement of heavy industry🏭, noise research🔊, video production🎥, and propaganda dissemination📺. We have a great many tools in our arsenal to ensure that the dark powers☠️ behind us are always given the upper hand🫴🏽.
+
+## From our Electronic Signals Intelligence📡, Psychotronic Warfare🧠, and Aural Weapons Research🔇 divisions, we seek out the most advanced, cutting-edge technology and weaponry to dominate the battlefield☢️ and conquer our enemies☣️. Our Agitprop and Subliminal Messaging📰 programs are also used to spread disinformation🥸 and propaganda🗞️, so that our opponents are never fully aware of the true extent of our power.
+
+## But we are also a company that cares, and while our Board of Directors may be heavily invested in the suffering of marginalized people in the Global South🌍, we also strive to do what we can to produce clothing products as ethically as possible👕. Darkwraith Covenant is committed to ensuring that our products are made with the utmost care and respect for those who use them.
+
+## Nevertheless, Darkwraith Covenant is a force to be reckoned with. Our advanced technology, combined with our will to succeed, will continue to drive our success for years to come.🗡️🗡️🗡️
 
 - [Official Github of Darkwraith Covenant](https://github.com/darkwraithcovenant)
 
