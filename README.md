@@ -1,5 +1,5 @@
 # Darkwraith Covenant Industries Incorporated
-## Misfortune 500 Company, specializing in heavy industry, noise production, and propaganda dissemination. Occultist Paramilitary Defense Corporation.
+## 🗡️🗡️🗡️ Misfortune 500 company and Occultist⛧ Paramilitary🪖 Defense🚀 Corporation📈, specializing in Heavy Industry🏭, Noise Research & Production🔊, and Propaganda Dissemination📰. Our company is made up of the following divisions: Electronic Signals Intelligence📡, Psychotronic Warfare🛰️, Aural Weapons Research🔇, and Agitprop and Subliminal Messaging📺. DWC Inc also sells clothing products made as ethically as possible, to the disappointment of our Board of Directors, who are heavily invested in the suffering of marginalized humans in the Global South.🗡️🗡️🗡️
 
 - [Official Github of Darkwraith Covenant](https://github.com/darkwraithcovenant)
 
