@@ -1,11 +1,67 @@
 
  body {
-    color: black;
-    background: teal;
+   padding: 10px ;
+    background: black;
  }
 
- .container {
-width: 600px;
-margin: 0 auto;
+ :root {
+   --fg-blue: blue;
+   --fg-pink: red;
+   --fg-white: #ffffff;
+   --shadow-white: 0 0 20px #dddddd;
+   --border-pink: 1px solid var(--fg-pink);
+   --border-shadow-pink: inset 0 0 12px #ff8fff55;
+}
 
+.header {
+   width: 100vw;
+   display: flex;
+   justify-content: center;
+  }
+
+ .mypre {
+  
+   font-size: 100%; 
+   text-shadow: shadow-white;
+   white-space: pre !important;
+   background-image:  linear-gradient(var(--fg-blue), var(--fg-blue), 
+   var(--fg-pink), var(--fg-white), var(--fg-white), 
+   var(--fg-white), var(--fg-white) );
+    background-repeat: no-repeat;
+    background-clip: text;
+    color: transparent;
+    -webkit-background-clip: text;
+    text-shadow: var(--shadow-white);
+    white-space: pre !important;
+    line-break: none;
+    text-align: left;
  }
+
+
+p {
+   font-family: "Pixelated MS Sans Serif";
+   src: url("ms_sans_serif.woff") format("woff");
+   src: url("ms_sans_serif.woff2") format("woff2");
+   color: white;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 16px;
+
+}
+
+h1, h2, h3 {
+   text-align: center;
+   font-family: "Pixelated MS Sans Serif";
+   src: url("ms_sans_serif.woff") format("woff");
+   src: url("ms_sans_serif.woff2") format("woff2");
+   color: white;
+   font-weight: normal;
+   font-style: normal;
+
+}
+
+footer {
+   width: 100vw;
+   display: flex;
+   justify-content: center;
+  }
