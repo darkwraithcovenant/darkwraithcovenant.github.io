@@ -3,9 +3,6 @@ title: Test
 layout: default
 ---
 
-# {{ page.title }}
-
-
 Plain text format allows you to focus on your **content**.
 
 <!--
