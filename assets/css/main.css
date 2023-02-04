@@ -27,7 +27,7 @@
  }
 
 
-p {
+p, a, li {
    font-family: "Pixelated MS Sans Serif";
    src: url("ms_sans_serif.woff") format("woff");
    src: url("ms_sans_serif.woff2") format("woff2");
@@ -38,7 +38,7 @@ p {
 
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
    text-align: center;
    font-family: "Pixelated MS Sans Serif";
    src: url("ms_sans_serif.woff") format("woff");
@@ -60,3 +60,19 @@ padding: 5%;
  
  }
  
+
+a:link,
+a:visited,
+a:focus {
+  background: darkred;
+  color: black;
+}
+
+a:hover {
+  background: purple;
+}
+
+a:active {
+  background: darkblue;
+  color: white;
+}
