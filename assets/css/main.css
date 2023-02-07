@@ -4,16 +4,23 @@ body {
     color: white;
    text-align       : center;
    background: black;
-   height : 100vh;
-   width : 100vw;
-
-   justify-content     : center;
+   justify-content  : center;
+   margin: 3em;
  }
 
+.nav {
+  margin: 1em;
+}
+
+.block {
+  margin: 1em;
+}
+
 .header {
-   width: 100vw;
+   
    display: flex;
    justify-content: center;
+  
   }
 
 .mypre {
@@ -22,7 +29,8 @@ body {
  }
 
 
-p, a, li {
+p, a, li, ul {
+  list-style-type: none;
    font-family: "Pixelated MS Sans Serif";
    src: url("ms_sans_serif.woff") format("woff");
    src: url("ms_sans_serif.woff2") format("woff2");
@@ -30,8 +38,9 @@ p, a, li {
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
-
+   margin: .1em;
 }
+
 
 h1, h2, h3, h4 {
    text-align: center;
@@ -46,12 +55,13 @@ h1, h2, h3, h4 {
 footer {
 padding: 1rem;
   }
-  @media only screen and (max-width: 950px) {
-   pre {
-     font-size : 5pt;
-   }
- 
- }
+  
+@media only screen and (max-width: 950px) { 
+  pre {
+    font-size : 4pt;
+  }
+
+}
 
 a:link,
 a:visited,
@@ -61,7 +71,7 @@ a:focus {
 }
 
 a:hover {
-  background: purple;
+  background: yellow;
 }
 
 a:active {

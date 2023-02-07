@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: About Darkwraith Covenant
+  link: /about.html
+- name: Blog
+  link: /blog.html
+- name: Corporate
+  link: /desktop/index.html

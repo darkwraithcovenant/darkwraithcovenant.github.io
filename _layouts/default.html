@@ -11,12 +11,16 @@
 <body>
 
 <div class="header">
-    {% include ASCII.html %}
+    {% include logo.html %}
 </div>
 
-<h3> {{ page.description }} </h3>
+<div class="nav">
+    {% include nav.html %}
+</div>
+
+<h4> {{ page.description }} </h4>
    
-<div>
+<div class="block">
     <p>{{ content}}</p> 
 </div>
 
