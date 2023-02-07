@@ -1,20 +1,38 @@
 
 
 body {
-    color: white;
-   text-align       : center;
-   background: black;
-   justify-content  : center;
+  color: white;
+   /* text-align: center; */
+   justify-content: center;
+   background: rgb(45, 15, 15);
    margin: 1em;
  }
 
 .nav {
-  margin: 1em;
+  text-align: center;
+  margin: .5em;
   font-size: large;
 }
 
 .block {
   margin: 3em;
+}
+
+.vidalign {
+
+  padding: 1em;
+text-align: center;
+
+}
+
+.vidcap {
+
+justify-content: center;
+color: white;
+font-weight: normal;
+font-style: normal;
+text-align: center;
+ 
 }
 
 
@@ -44,7 +62,7 @@ p, a, li, ul {
    font-weight: normal;
    font-style: normal;
    font-size: 16px;
-   margin: .1em;
+   margin: .5em;
 }
 
 
@@ -66,6 +84,10 @@ padding: 1rem;
   pre {
     font-size : 4pt;
   }
+  img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
 
 }
 

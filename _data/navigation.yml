@@ -1,8 +1,10 @@
 - name: HOME
   link: /
-- name: ABOUT DARKWRAITH COVENANT
-  link: /about.html
 - name: BLOG
   link: /blog.html
 - name: CORPORATE
   link: /desktop/index.html
+- name: FIENDS
+  link: /fiends.html 
+- name: ABOUT DARKWRAITH COVENANT
+  link: /about.html

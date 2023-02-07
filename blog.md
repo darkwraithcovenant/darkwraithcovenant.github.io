@@ -3,12 +3,19 @@ layout: default
 title: Blog
 ---
 
+
+{:refdef: style="text-align: center;"}
 [![konko](/assets/images/konko.gif)]()
 [![mww](/assets/images/made_with_windows.gif)]()
 [![pd](/assets/images/publicdomain.gif)]()
 [![raa](/assets/images/raa.gif)]()
+{: refdef}  
 
-<h4>Latest Posts</h4>
+
+
+
+
+<h4>Posts</h4>
 <ul>
   {% for post in site.posts %}
     <li>

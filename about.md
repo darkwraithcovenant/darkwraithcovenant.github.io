@@ -13,7 +13,9 @@ But we are also a company that cares, and while our Board of Directors may be he
 
 Nevertheless, Darkwraith Covenant is a force to be reckoned with. Our advanced technology, combined with our will to succeed, will continue to drive our success for years to come.🗡️🗡️🗡️
 
-[![Darkwraith Covenant - The Last Word (Official Music Video)](https://img.youtube.com/vi/3bP4ZFvVcy4/maxresdefault.jpg)](https://www.youtube.com/watch?v=3bP4ZFvVcy4)
+
+![Darkwraith Covenant - The Last Word (Official Music Video)](https://img.youtube.com/vi/3bP4ZFvVcy4/maxresdefault.jpg){:height="40%" width="40%"}
+
 
 - [Official Github of Darkwraith Covenant](https://github.com/darkwraithcovenant)
 
