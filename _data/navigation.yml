@@ -2,6 +2,8 @@
   link: /
 - name: BLOG
   link: /blog.html
+- name: MUSIC
+  link: /music.html
 - name: CORPORATE
   link: /desktop/index.html
 - name: FIENDS
