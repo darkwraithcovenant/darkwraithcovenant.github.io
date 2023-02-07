@@ -10,4 +10,6 @@ title: Blog
 - [Hexx Head - Boston, MA](https://hexxhead.bandcamp.com/album/seabeds-cough)
 - [Static Ghost - Olympia, WA ](https://staticghost1.bandcamp.com/album/static-ghost-ep-2)
 - [No - San Francisco, CA](https://onno.bandcamp.com/) 
+- [Physical Wash](https://oraculorecords.bandcamp.com/album/physical-death)
+- [Puerta Negra](https://oraculorecords.bandcamp.com/album/costo-humano)
 {: refdef} 
