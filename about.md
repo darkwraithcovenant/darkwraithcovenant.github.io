@@ -3,7 +3,7 @@ title: About Darkwraith Covenant
 layout: default
 description: All things DWC + Ruminations about Music Technology, Programming, and Politics.
 ---
-### Darkwraith Covenant Industries Incorporated Bio
+#### Darkwraith Covenant Industries Incorporated Bio
 
  🗡️🗡️🗡️Darkwraith Covenant Industries Inc. is a name that strikes fear and awe into the hearts of many, and for good reason. We are a Misfortune 500 company based out of the Silicon Forest🌲 in Portland, OR, specializing in the dark arts of Occultism⛧ and Paramilitary🪖 Defense🚀. Our divisions are dedicated to the advancement of heavy industry🏭, noise research🔊, video production🎥, and propaganda dissemination📺. We have a great many tools in our arsenal to ensure that the dark powers☠️ behind us are always given the upper hand🫴🏽.
 
