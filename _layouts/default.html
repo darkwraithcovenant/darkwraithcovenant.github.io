@@ -10,19 +10,46 @@
 </head>
 <body>
 
+
+    
+<!-- here is the ascii art header -->
 <div class="header">
     {% include logo.html %}
 </div>
 
-<div class="nav">
-    {% include nav.html %}
-</div>
 
-<h4> {{ page.description }} </h4>
+<div class="window" style="margin: 32px; ">
+    <div class="title-bar">
+      <div class="title-bar-text">
+        {{page.title}}
+      </div>
+
+      <div class="title-bar-controls">
+        <button aria-label="Minimize"></button>
+        <button aria-label="Maximize"></button>
+        <button aria-label="Close"></button>
+      </div>
+    </div>
+    <div class="window-body">
+      <section ss="field-row" style="justify-content: flex-end;">
+        <div class="nav">
+            {% include nav.html %}
+        </div>
+        <ul class="tree-view" style="background-color: teal;">
+            <h4> {{ page.description }} </h4>
+            <div class="block">
+                <p>{{ content}}</p> 
+            </div>
+        </ul>
+      </section>
+    </div>
+  </div>
+
+
+
+
    
-<div class="block">
-    <p>{{ content}}</p> 
-</div>
+
 
 {% include footer.html %}
 

@@ -3,7 +3,6 @@ layout: default
 title: Blog
 ---
 
-
 {:refdef: style="text-align: center;"}
 [![konko](/assets/images/konko.gif)](/)
 [![mww](/assets/images/made_with_windows.gif)](/blog.html)
@@ -11,7 +10,7 @@ title: Blog
 [![raa](/assets/images/raa.gif)](/desktop/index.html)
 [![35mm](/assets/images/35mm.gif)](/fiends.html)
 [![angelfire](/assets/images/angelfire.gif)](/about.html)
-{: refdef}  
+{:refdef}  
 
 <h4>Posts</h4>
 <ul>
