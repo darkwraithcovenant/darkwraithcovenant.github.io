@@ -1,7 +1,6 @@
 ---
 title: About Darkwraith Covenant
 layout: default
-description: All things DWC + Ruminations about Music Technology, Programming, and Politics.
 image: "/assets/images/angelfire.gif"
 ---
 #### Darkwraith Covenant Industries Incorporated Bio

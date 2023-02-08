@@ -18,7 +18,7 @@
 </div>
 
 
-<div class="window" style="margin-left: 100px; margin-right: 100px; ">
+<div class="window ">
     <div class="title-bar">
       <div class="title-bar-text" style="font-size:x-large">
         <img src=" {{page.image}} " alt="{{page.title}}"> {{page.title}}
@@ -47,19 +47,20 @@
         <div class="nav">
             {% include nav.html %}
         </div>
-        <div class="tree-view" style="background-color: teal;">
+        <div class="tree-view" style="background-color: #010081;">
             <h4> {{ page.description }} </h4>
             <div class="block">
                 <p>{{ content}}</p> 
             </div>
         </div>
+        {% include footer.html %}
       </section>
     </div>
 </div>
    
 
 
-{% include footer.html %}
+
 
 </body>
 </html>

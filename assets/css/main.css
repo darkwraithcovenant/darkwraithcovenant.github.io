@@ -1,17 +1,14 @@
-
-
 body {
   color: white;
    justify-content: center;
    background: rgb(45, 15, 15);
-   margin: 1em;
+   /* margin: 1em; */
  }
 
 .nav {
   text-align: center;
   font-size: large;
 }
-
 
 .block {
   margin: 3em;
@@ -25,13 +22,11 @@ text-align: center;
 }
 
 .vidcap {
-
 justify-content: center;
 color: white;
 font-weight: normal;
 font-style: normal;
 text-align: center;
- 
 }
 
 .header {
@@ -69,12 +64,12 @@ h1, h2, h3, h4 {
 }
 
 footer {
-padding: 1rem;
+/* padding: 1rem; */
   }
   
-@media only screen and (max-width: 950px) { 
+@media only screen and (max-width: 844px) { 
   pre {
-    font-size : 4pt;
+    font-size : 3pt;
   }
   img[src*='#center'] { 
     display: block;
@@ -87,21 +82,20 @@ padding: 1rem;
 }
 
 a:link {
+  color: #818181;
   text-decoration: none;
 }
 
 a:visited {
+  color:#ffae00;
   text-decoration: none;
 
 }
 
 a:hover {
+  color: #ff0081;
   text-decoration: none;
 }
 
 
-button,
-svg {
-  display: inline-block;
-  vertical-align:bottom
-}
+
