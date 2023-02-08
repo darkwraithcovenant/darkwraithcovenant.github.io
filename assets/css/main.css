@@ -37,6 +37,7 @@ text-align: center;
 .mypre {
   background-color: #000;
   color: rgb(191, 0, 0);
+
  }
 
 
@@ -67,7 +68,7 @@ footer {
 padding: 1rem;
   }
   
-@media only screen and (max-width: 844px) { 
+@media only screen and (max-width: 950px) { 
   pre {
     font-size : 3pt;
   }
