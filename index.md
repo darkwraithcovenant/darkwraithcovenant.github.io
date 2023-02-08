@@ -5,7 +5,7 @@ image: "/assets/images/publicdomain.gif"
 ---
 <center><p> ☢️ New Official Music Video! ☢️</p></center>
 <div class="vidalign">
-<iframe height=100px src="https://www.youtube.com/embed/3bP4ZFvVcy4" frameborder="30"  allow="accelerometer;clipboard-write; encrypted-media; modest-branding; gyroscope; picture-in-picture; web-share" allowfullscreen > </iframe>
+<iframe src="https://www.youtube.com/embed/3bP4ZFvVcy4" frameborder="30"  allow="accelerometer;clipboard-write; encrypted-media; modest-branding; gyroscope; picture-in-picture; web-share" allowfullscreen > </iframe>
 </div>
 
 
