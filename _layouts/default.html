@@ -11,21 +11,19 @@
 </head>
 <body>
 
-
-    
 <!-- here is the ascii art header -->
 <div class="header">
     {% include logo.html %}
 </div>
 
-
+<!-- build the main content window -->
 <div class="window" style="margin: 2% 20% 4%">
     <div class="title-bar">
       <div class="title-bar-text" style="font-size:x-large">
         <img src=" {{page.image}} " alt="{{page.title}}"> {{page.title}}
       </div>
 
-      <!-- these are the enlarged buttons -->
+      <!-- these are the enlarged buttons with modifed svg -->
       <div class="title-bar-controls">
         <button style="height: 30px;width: 30px;">
             <svg xmlns="http://www.w3.org/2000/svg" width="12" height="4" viewBox="0 0 6 2" fill="none">
@@ -44,19 +42,22 @@
             </button>
       </div>
     </div>
+    
+
     <div class="window-body">
-      <section ss="field-row" style="justify-content: center;">
+      <section class="field-row" style="justify-content: center;">
         <div class="nav">
             {% include nav.html %}
         </div>
-        <div class="tree-view" style="background-color: #010081;">
-            <h4> {{ page.description }} </h4>
-            <div class="block">
-                <p>{{ content}}</p> 
-            </div>
-        </div>
-        {% include footer.html %}
+        
       </section>
+      <div class="tree-view" style="background-color: #010081;">
+        <h4> {{ page.description }} </h4>
+        <div class="block">
+            <p>{{ content}}</p> 
+        </div>
+    </div>
+    {% include footer.html %}
     </div>
 </div>
 

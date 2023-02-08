@@ -9,6 +9,12 @@ body {
   font-size: large;
 }
 
+iframe {
+
+  width: 720px;
+  height: 480px
+}
+
 .block {   
   padding: 1% 5% 1%;
 }
