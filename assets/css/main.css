@@ -1,7 +1,6 @@
 body {
   color: white;
-  
-   background: rgb(45, 15, 15);
+  background: rgb(45, 15, 15);
   justify-content:center ;
  }
 
@@ -14,30 +13,30 @@ body {
   padding: 1% 5% 1%;
 }
 
+
 .vidalign {
-
-padding: 1em;
-text-align: center;
-
+  padding: 1em;
+  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .vidcap {
-justify-content: center;
-color: white;
-font-weight: normal;
-font-style: normal;
-text-align: center;
+  justify-content: center;
+  color: white;
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
 }
 
 .header {
-   display: flex;
-   justify-content: center;
-  }
+  display: flex;
+  justify-content: center;
+}
 
 .mypre {
   background-color: #000;
   color: rgb(191, 0, 0);
-
  }
 
 
@@ -51,6 +50,10 @@ p, li, ul {
    font-style: normal;
    font-size: 16px;
 
+}
+
+a {
+  word-wrap: break-word;
 }
 
 
