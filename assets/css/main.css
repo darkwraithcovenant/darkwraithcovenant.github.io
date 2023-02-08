@@ -53,7 +53,7 @@ color: black;
 
  }
 
-p, a, li, ul {
+p, li, ul {
   list-style-type: none;
    font-family: "Pixelated MS Sans Serif";
    src: url("ms_sans_serif.woff") format("woff");
@@ -89,26 +89,28 @@ padding: 1rem;
     margin: auto;
 }
 
-}
 
-a:link,
-a:visited,
-a:focus {
-  background: darkred;
-  color: rgb(174, 173, 173);
-}
 
-a:hover {
-  background: yellow;
-  color: black;
-}
-
-a:active {
-  background: darkblue;
-  color: white;
-}
 
 .blogtitle {
   font-size: large;
 }
 
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+  color
+}
+
+a:hover {
+  
+  text-decoration: none;
+  color: #2ecc71;
+}
+
+a:active {
+  text-decoration: none;
+}
