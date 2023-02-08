@@ -18,7 +18,7 @@ title: Blog
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}" class="blogtitle">{{ post.title }}</a>
-    {{ post.excerpt }}...
+    {{ post.excerpt }}
     </li> 
   {% endfor %} 
 </ul>
