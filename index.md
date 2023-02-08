@@ -2,6 +2,7 @@
 title: Darwraith Covenant Industries
 layout: default
 description: All things DWC + Ruminations about Music Technology, Programming, and Politics.
+image: "/assets/images/publicdomain.gif"
 ---
 <center><p> ☢️ New Official Music Video! ☢️</p></center>
 <div class="vidalign">

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Blog
+image: "/assets/images/raa.gif"
 ---
 
 #### These are some bands I like

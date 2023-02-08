@@ -2,6 +2,7 @@
 title: About Darkwraith Covenant
 layout: default
 description: All things DWC + Ruminations about Music Technology, Programming, and Politics.
+image: "/assets/images/angelfire.gif"
 ---
 #### Darkwraith Covenant Industries Incorporated Bio
 
@@ -22,19 +23,17 @@ Nevertheless, Darkwraith Covenant is a force to be reckoned with. Our advanced t
 {:refdef: style="text-align: center;"}
 - [Official Github of Darkwraith Covenant](https://github.com/darkwraithcovenant)
 
-- Genre: **EBM, TBM, Electro, Industrial**
+- **Genre:** EBM, TBM, Electro, Industrial
 
-- Linktree: [https://linktr.ee/darkwraithcovenant](https://linktr.ee/darkwraithcovenant)
+- **Linktree:** [https://linktr.ee/darkwraithcovenant](https://linktr.ee/darkwraithcovenant)
 
-- Email: [darkwraithcovenant@gmail.com](mailto:darkwraithcovenant@gmail.com)
+- **Email:** [darkwraithcovenant@gmail.com](mailto:darkwraithcovenant@gmail.com)
 
-- Modular Grid: [https://www.modulargrid.net/e/racks/view/1257830](https://www.modulargrid.net/e/racks/view/1257830)
+- **Modular Grid:** [https://www.modulargrid.net/e/racks/view/1257830](https://www.modulargrid.net/e/racks/view/1257830)
 
-- Blog: [Coming Soon](Coming Soon)
+- **DAW:** Ableton Live
 
-- DAW: **Ableton Live**
+- **Live Hardware:** Apple Silicon M1 Macbook Pro w/ Ableton Live, Mutable Instruments Ambika, Toraiz AS-1, Modular Synth
 
-- Live Hardware: **Apple Silicon M1 Macbook Pro w/ Ableton Live, Mutable Instruments Ambika, Toraiz AS-1, Modular Synth,**
-
-- Website: [http://www.darkwraithcovenant.com](http://www.darkwraithcovenant.com)
+- **Website:** [http://www.darkwraithcovenant.com](http://www.darkwraithcovenant.com)
 {: refdef} 
