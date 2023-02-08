@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog
+title: Fiends
 image: "/assets/images/raa.gif"
 ---
 
