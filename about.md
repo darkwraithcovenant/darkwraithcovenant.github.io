@@ -11,12 +11,15 @@ From our Electronic Signals Intelligence📡, Psychotronic Warfare🧠, and Aura
 
 But we are also a company that cares, and while our Board of Directors may be heavily invested in the suffering of marginalized people in the Global South🌍, we also strive to do what we can to produce clothing products as ethically as possible👕. Darkwraith Covenant is committed to ensuring that our products are made with the utmost care and respect for those who use them.
 
-Nevertheless, Darkwraith Covenant is a force to be reckoned with. Our advanced technology, combined with our will to succeed, will continue to drive our success for years to come.🗡️🗡️🗡️
+Nevertheless, Darkwraith Covenant is a force to be reckoned with. Our advanced technology, combined with our will to succeed, will continue to drive our success for years to come.🗡️🗡️🗡️  
+  
+<center><p> ☢️ New Official Music Video! ☢️</p></center>
+<div class="vidalign">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3bP4ZFvVcy4" frameborder="0"  allow="accelerometer;clipboard-write; encrypted-media; modest-branding; gyroscope; picture-in-picture; web-share" allowfullscreen > </iframe>
+</div>
 
 
-![Darkwraith Covenant - The Last Word (Official Music Video)](https://img.youtube.com/vi/3bP4ZFvVcy4/maxresdefault.jpg){:height="40%" width="40%"}
-
-
+{:refdef: style="text-align: center;"}
 - [Official Github of Darkwraith Covenant](https://github.com/darkwraithcovenant)
 
 - Genre: **EBM, TBM, Electro, Industrial**
@@ -34,3 +37,4 @@ Nevertheless, Darkwraith Covenant is a force to be reckoned with. Our advanced t
 - Live Hardware: **Apple Silicon M1 Macbook Pro w/ Ableton Live, Mutable Instruments Ambika, Toraiz AS-1, Modular Synth,**
 
 - Website: [http://www.darkwraithcovenant.com](http://www.darkwraithcovenant.com)
+{: refdef} 

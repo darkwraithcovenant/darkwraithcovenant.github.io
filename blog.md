@@ -11,10 +11,6 @@ title: Blog
 [![raa](/assets/images/raa.gif)]()
 {: refdef}  
 
-
-
-
-
 <h4>Posts</h4>
 <ul>
   {% for post in site.posts %}

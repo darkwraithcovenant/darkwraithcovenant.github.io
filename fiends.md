@@ -12,4 +12,5 @@ title: Blog
 - [<<No - San Francisco, CA>>](https://onno.bandcamp.com/) 
 - [<<Physical Wash - Portland, OR>>](https://oraculorecords.bandcamp.com/album/physical-death)
 - [<<Puerta Negra - Portland, OR>>](https://oraculorecords.bandcamp.com/album/costo-humano)
+- [<<Consumer - Chicago, IL>>](https://consumermp.bandcamp.com/)
 {: refdef} 
