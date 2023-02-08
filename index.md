@@ -8,7 +8,7 @@ image: "/assets/images/publicdomain.gif"
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/3bP4ZFvVcy4" frameborder="0"  allow="accelerometer;clipboard-write; encrypted-media; modest-branding; gyroscope; picture-in-picture; web-share" allowfullscreen > </iframe>
 </div>
 
-{:refdef: style="text-align: center;"}
+
 - [Official Github of Darkwraith Covenant](https://github.com/darkwraithcovenant)
 
 - Genre: **EBM, TBM, Electro, Industrial**
@@ -26,4 +26,4 @@ image: "/assets/images/publicdomain.gif"
 - Live Hardware: **Apple Silicon M1 Macbook Pro w/ Ableton Live, Mutable Instruments Ambika, Toraiz AS-1, Modular Synth,**
 
 - Website: [http://www.darkwraithcovenant.com](http://www.darkwraithcovenant.com)
-{: refdef} 
+

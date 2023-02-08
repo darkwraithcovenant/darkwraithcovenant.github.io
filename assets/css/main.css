@@ -1,8 +1,8 @@
 body {
   color: white;
-   justify-content: center;
+  
    background: rgb(45, 15, 15);
-   /* margin: 1em; */
+
  }
 
 .nav {
@@ -11,7 +11,7 @@ body {
 }
 
 .block {
-  margin: 3em;
+  padding: 1% 5% 1%;
 }
 
 .vidalign {
