@@ -3,7 +3,6 @@ layout: default
 title: Blog
 image: "/assets/images/made_with_windows.gif"
 ---
-<h4>Posts</h4>
 <ul>
   {% for post in site.posts %}
     <li>
