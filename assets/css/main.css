@@ -81,6 +81,12 @@ padding: 1rem;
   pre {
     font-size : 3pt;
   }
+
+  .block {
+    Margin: 0;
+  }
+  
+
   img[src*='#center'] { 
     display: block;
     margin: auto;
