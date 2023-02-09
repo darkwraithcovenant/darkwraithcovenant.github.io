@@ -1,7 +1,7 @@
 body {
   color: white;
   background: rgb(45, 15, 15);
-  justify-content:center ;
+
  }
 
 .nav {
@@ -14,10 +14,10 @@ iframe {
   height: 480px
 }
 
+/* the content block */
 .block {   
   padding: 1% 5% 1%;
 }
-
 
 .vidalign {
   padding: 1em;

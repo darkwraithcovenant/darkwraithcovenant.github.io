@@ -28,4 +28,3 @@ Nevertheless, Darkwraith Covenant is a force to be reckoned with. Our advanced t
 - **Live Hardware:** Apple Silicon M1 Macbook Pro w/ Ableton Live, Mutable Instruments Ambika, Toraiz AS-1, Modular Synth
 
 - **Website:** [http://www.darkwraithcovenant.com](http://www.darkwraithcovenant.com)
-
