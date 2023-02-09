@@ -82,15 +82,6 @@ padding: 1rem;
     font-size : 3pt;
   }
 
-  .window {
-    Width: 100%;
-  }
-  
-
-  img[src*='#center'] { 
-    display: block;
-    margin: auto;
-}
 }
 
 .blogtitle {
