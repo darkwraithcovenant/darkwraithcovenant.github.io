@@ -43,23 +43,39 @@
       </div>
     </div>
     
-    <!-- This is the windows 95 body -->
+    <!-- This is the grey windows 95 body -->
     <div class="window-body">
-      <section class="field-row" style="justify-content: center;">
-        <div class="nav">
-            {% include nav.html %}
+        <section class="field-row" style="justify-content: center;">
+            <div class="nav">
+                {% include nav.html %}
+            </div>
+        </section>
+        
+        <!-- content goes here in the treeview (wihtout any trees, because there is no list)  -->
+        <div class="tree-view" style="background-color: #010081;">
+            <h4> {{ page.description }} </h4>
+            <div class="block">
+                <p>{{ content}}</p> 
+            </div>
         </div>
-      <!-- content goes here   -->
-      </section>
-      <div class="tree-view" style="background-color: #010081;">
-        <h4> {{ page.description }} </h4>
-        <div class="block">
-            <p>{{ content}}</p> 
-        </div>
-    </div>
+    
+        <!-- the footer content goes here -->
     {% include footer.html %}
+    
     </div>
+    <div class="status-bar">
+        
+    <p class="status-bar-field"><img src="https://auzziejay.com/images/noweb32.gif"></p>
+    <p class="status-bar-field"><img src="https://auzziejay.com/images/noweb32.gif"></p>
+    <p class="status-bar-field"><img src="https://auzziejay.com/images/noweb32.gif"></p>
+      </div>
+      
 </div>
+
+
+    
+ 
+  
 
 </body>
 </html>
