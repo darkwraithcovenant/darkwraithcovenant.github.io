@@ -7,7 +7,7 @@ published: true
 
 #### Why the internet is unbearable now.
 
-The way we consumed the social internet was much different when I first started learning HTML. It was a lot more democratic than it is today. It was more decentralized, and mega corporations had not yet taken advantage of your eyes and flooded them with ads at the torrential levels they do today. *insert quote from no logo*.   
+The way we consumed the social internet was much different when I first started learning HTML. It was a lot more democratic than it is today. It was more decentralized, and mega corporations had not yet taken advantage of your eyes and flooded them with ads at the torrential levels they do today. *insert quote from Naomi Klein's No Logo*.   
 
 As usual, companies that serve and sell ads creeped in. They became pervasive and downright malicious in their relentless quest for more engagement, more clicks, more buys, and more revenue. They began to use data taken from us in unscrupulous ways, and rather than promote hateful ideas themselves, allowed people who spread hateful ideas to feature those ads on their content. Trump was given billions in free marketing in the 2016 election cycle, in exchange for your eyes and attention, so that ads could be served to you on the channels that showed his face and his ideas 24/7. And that was just legacy media on TV, what was happening with facebook and Cambridge Analytica was even more alarming. 
 
