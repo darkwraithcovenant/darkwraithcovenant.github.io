@@ -50,7 +50,7 @@ Like in the era of Geocities and Angelfire, it can be exactly as we construct, f
 A personal webpage is an expression of the self, a canvas in a digital art gallery, one snippet of HTML and CSS at a time. Why then, have we let someone without our best interests mind do all the heavy lifting for us? Social media sites will continue to have their place, but I think they are on the decline and we should move accordingly.
 
 **Reasons to move your art, music, and writing off of facebook**
-- You won't be banned by robots for arbitrary breaking ever changing rules (just don't be a raging bigot) and face censorship.
+- You won't be banned by careless robots for breaking arbitrary, ever-changing terms of service (just don't be a raging bigot) and won't face censorship.
 - You control your own digital ghost, and can disappear your content on your own terms.
 - You control who interacts with your content.
 - Your data is no longer mined and abused by greedy actors.
@@ -71,5 +71,3 @@ A typical neocities page.
 </div>
 
 *This post is a living document, and may change*
-
-
