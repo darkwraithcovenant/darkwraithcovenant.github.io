@@ -1,8 +1,9 @@
 title: Darkwraith Covenant Blog
 email: darkwraithcovenant@gmail.com
+excerpt_separator: <!-- excerpt-end -->
 description: 
   Ruminations about Music Technology, Programming, and Politics. Official website of the open so
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.darkwraithcovenant.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.darkwraithcovenant.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: darkwraithcoven
 github_username:  darkwraithcovenant

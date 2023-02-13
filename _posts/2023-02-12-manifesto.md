@@ -4,14 +4,17 @@ title:  "Manifesto For A Better Web"
 author: Jose
 published: true
 image: "/assets/images/made_with_windows.gif"
-newimg: "/assets/images/new.gif"
+
+newimg: "/assets/images/new.gif" #make this disappear after a number of days with conditionals  
 ---
 
-#### Why the internet is unbearable now.
+**Why the social internet is unbearable now.**
 
-The way we consumed the social internet was much different when I first started learning HTML. It was a lot more democratized than it is today. It was more decentralized, and mega corporations had not yet taken over your eyes and flooded them with ads at the torrential levels they do today. *Insert quote from Naomi Klein's No Logo here*.   
+The way we consumed the social internet was much different when I first started learning HTML. It was a lot more democratized than it is today. It was more decentralized, and mega corporations had not yet taken over your eyes and flooded them with ads at the torrential levels they do today. *Insert quote from Naomi Klein's No Logo here*.
 
-As usual, companies that serve and sell ads creeped in. They became pervasive and downright malicious in their relentless quest for more engagement, clicks, buys, and revenue. They exploited our personal data. Trump was given billions in free marketing in the 2016 election cycle, in exchange for your eyes and attention, so that ads could be served to you on the channels that showed his face and his ideas 24/7. And that was just legacy media on TV, what was happening with Facebook (now Meta) and Cambridge Analytica was even more alarming. 
+<!-- excerpt-end -->
+
+As usual, companies that serve and sell ads creeped in. They became pervasive and downright malicious in their relentless quest for more engagement, clicks, buys, and revenue. They exploited our personal data. Trump was given billions in free marketing in the 2016 election cycle, in exchange for your eyes and attention, so that ads could be served to you on the channels that showed his face and his ideas 24/7. And that was just legacy media on TV, what was happening with Facebook (now Meta) and Cambridge Analytica was even more alarming.
 
 The internet used to be for us and by us - the nerds, the geeks, the punks, the outsiders. Before social media, we had webrings that linked people's pages together. It fostered a sense of community that is rapidly in decline today. It was much easier to find content relevant to our interests, being served by people who actually cared about those interests. Mistakes were certainly made, and content moderation was poor a lot of times where it mattered, but most pages were static and allowed very little interaction. The point was, that we had much better control over our content.
 
