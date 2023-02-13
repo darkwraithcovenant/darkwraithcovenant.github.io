@@ -30,7 +30,7 @@ A lot of hateful, toxic behavior was allowed to go unchecked on Web 1.0, with to
 
 We've stopped walking down the street in a metaphorical big open world (wide web), enjoying all the parks, shops, restaurants, bars, venues, and most importantly people. Instead we have stayed in one single towering megabuilding, riding an elevator up and down different floors that open up to various walled gardens. With each new floor, social media sites serve you the content they think you want to see, making you forget at once that you're in the same building, owned by one company who doesn't care about your mental health and well being. The fact that you go to 3-4 different buildings - facebook, instagram, twitter, snapchat, etc. - provides the illusion of choice. You are no longer walking through the proverbial town square, in a wide world of town squares each with unique offerings. How utterly dull! Why have we allowed this to happen?
 
-The world wide web used to be more like     
+The world wide web used to be like     
 this: [][][][][][],   
 but today it's more like  
 this: <br>
