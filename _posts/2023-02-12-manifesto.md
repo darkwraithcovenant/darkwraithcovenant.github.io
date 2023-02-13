@@ -4,7 +4,6 @@ title:  "Manifesto For A Better Web"
 author: Jose
 published: true
 image: "/assets/images/made_with_windows.gif"
-
 newimg: "/assets/images/new.gif" #make this disappear after a number of days with conditionals  
 ---
 
@@ -42,7 +41,9 @@ this: <br>
   
 It is siloed and curated by someone else's algorithm, for your undivided attention. Just look at how instagram and tiktok serve content. It's an endless scroll, [hacking your dopaminurgic system](https://www.psychologytoday.com/us/blog/automatic-you/201208/infinite-scroll-the-webs-slot-machine) to ultimately sell ads and keep you engaged. They won't even let you multitask and switch to a different window or app. This addicting behavior is by design. 
 
-But there is a better way. Like the era of geocities and angelfire, the latter of whom I still have my account from 1997 with, it is what we build it to be. We can learn from previous mistakes. We can understand what went wrong, and correct it. Or we can continue to languish in forever-scrolling hell. What if we thought of each of our personal webpages as the "Post" part of social media? The customization is what makes the old web so special. We haven't really had this kind of flexibility since myspace. 
+**But there is a better way.**
+
+Like the era of geocities and angelfire, the latter of whom I still have my account from 1997 with, it is what we build it to be. We can learn from previous mistakes. We can understand what went wrong, and correct it. Or we can continue to languish in forever-scrolling hell. What if we thought of each of our personal webpages as the "Post" part of social media? The customization is what makes the old web so special. We haven't really had this kind of flexibility since myspace. 
 
 A webpage is an expression of the self, one snippet of HTML and CSS at a time. Why then, have we let someone else do all the heavy lifting for us? Social media sites will continue to have their place, but I think they are on the decline. We still have the option of creating our own pages, and we shoul all be taking advantage of that while we still can. 
 
