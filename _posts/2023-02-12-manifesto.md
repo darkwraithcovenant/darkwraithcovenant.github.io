@@ -4,6 +4,7 @@ title:  "Manifesto For A Better Web"
 author: Jose
 published: true
 image: "/assets/images/made_with_windows.gif"
+newimg: "/assets/images/new.gif"
 ---
 
 #### Why the internet is unbearable now.
