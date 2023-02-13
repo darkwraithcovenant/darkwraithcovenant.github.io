@@ -70,4 +70,4 @@ This is why I support the Yesterweb movement and by extension the communities cr
 A typical neocities page.
 </div>
 
-*This post is a living document, and may change*
+*This post is a living document, and may change.*
