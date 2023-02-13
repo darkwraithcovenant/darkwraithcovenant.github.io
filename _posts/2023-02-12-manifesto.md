@@ -12,9 +12,17 @@ newimg: "/assets/images/new.gif" #make this disappear after a number of days wit
 
 The way we consumed the social internet was much different when I first started learning HTML. It was a lot more democratized than it is today. It was more decentralized, and mega corporations had not yet taken over your eyes and flooded them with ads at the torrential levels they do today. *Insert quote from Naomi Klein's No Logo here*.
 
+<div class="vidalign">
+<img src="/assets/images/nologo.png" style="height: 60%; width: 60%;">
+</div>
+
+<div class="vidcap">
+Naomi's Klein's No Logo
+</div>
+
 <!-- excerpt-end -->
 
-As usual, companies that serve and sell ads creeped in. They became pervasive and downright malicious in their relentless quest for more engagement, clicks, buys, and revenue. They exploited our personal data. Trump was given billions in free marketing in the 2016 election cycle, in exchange for your eyes and attention, so that ads could be served to you on the channels that showed his face and his ideas 24/7. And that was just legacy media on TV, what was happening with Facebook (now Meta) and Cambridge Analytica was even more alarming.
+As usual, companies that serve and sell ads creeped in. They became pervasive and downright malicious in their relentless quest for more engagement, clicks, buys, and revenue. They exploited our personal data. Trump was given billions in free marketing in the 2016 election cycle, in exchange for your eyes and attention, so that ads could be served to you on the channels that showed his face and his ideas 24/7. And that was just legacy media on TV, what was happening with Facebook (now Meta) and Cambridge Analytica [was even more alarming](https://www.bbc.com/news/technology-54722362).
 
 The internet used to be for us and by us - the nerds, the geeks, the punks, the outsiders. Before social media, we had webrings that linked people's pages together. It fostered a sense of community that is rapidly in decline today. It was much easier to find content relevant to our interests, being served by people who actually cared about those interests. Mistakes were certainly made, and content moderation was poor a lot of times where it mattered, but most pages were static and allowed very little interaction. The point was, that we had much better control over our content.
 
@@ -34,6 +42,6 @@ this: <br>
   
 It is siloed and curated by someone else's algorithm, for your undivided attention. Just look at how instagram and tiktok serve content. It's an endless scroll, hacking your dopaminurgic system to ultimately sell ads and keep you engaged. They won't even let you multitask and switch to a different window or app. This addictive behavior is by design. 
 
-But there is a better way. Like the era of geocities and angelfire, the latter of whom I still have my account from 1997 with, it is what we build it to be. We can learn from previous mistakes. We can understand what went wrong, and correct it. Or we can continue to languish in forever-scrolling hell. What if we thought of each of our personal webpages as the "Post" part of social media? The customization is what makes the old web so special. We haven't really had this kind of flexibility since myspace. A webpage is an expression of the self, one snippet of HTML and CSS at a time. Why then, have we let someone else do all the heavy lifting for us? Social media sites will continue to have their place, but I think they are on the decline. We still have the option of creating our own pages, and we shoul all be taking advantage of that while we still can. The URL and the 
+But there is a better way. Like the era of geocities and angelfire, the latter of whom I still have my account from 1997 with, it is what we build it to be. We can learn from previous mistakes. We can understand what went wrong, and correct it. Or we can continue to languish in forever-scrolling hell. What if we thought of each of our personal webpages as the "Post" part of social media? The customization is what makes the old web so special. We haven't really had this kind of flexibility since myspace. A webpage is an expression of the self, one snippet of HTML and CSS at a time. Why then, have we let someone else do all the heavy lifting for us? Social media sites will continue to have their place, but I think they are on the decline. We still have the option of creating our own pages, and we shoul all be taking advantage of that while we still can. 
 
-This is why I support the Yesterweb movement, which you can read more about here: [Yeserweb.org]](https://yesterweb.org/)
+This is why I support the Yesterweb movement, which you can read more about here: [Yesterweb.org](https://yesterweb.org/)
