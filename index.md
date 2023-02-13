@@ -15,7 +15,7 @@ image: "/assets/images/publicdomain.gif"
 
 - **Linktree:** [https://linktr.ee/darkwraithcovenant](https://linktr.ee/darkwraithcovenant)
 
-- **Email:** [darkwraithcovenant@gmail.com](mailto:darkwraithcovenant@gmail.com)
+- **Email:** [darkwraithcovenantpdx@gmail.com](mailto:darkwraithcovenantpdx@gmail.com)
 
 - **Modular Grid:** [https://www.modulargrid.net/e/racks/view/1257830](https://www.modulargrid.net/e/racks/view/1257830)
 
