@@ -1,5 +1,5 @@
 ---
-title: Darkwraith Covenant Industries
+title: "Darkwraith Covenant Industries"
 layout: default
 image: "/assets/images/publicdomain.gif"
 ---
