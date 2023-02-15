@@ -4,7 +4,7 @@ title:  "Manifesto For A Better Web"
 author: Jose
 published: true
 image: "/assets/images/made_with_windows.gif"
-newimg: "/assets/images/new.gif" #make this disappear after a number of days with conditionals  
+
 ---
 
 **Why the social internet is unbearable now.**

@@ -51,13 +51,12 @@ iframe {
   color: rgb(191, 0, 0);
  }
 
-
-p, li, ul {
+ p, li, ul {
   list-style-type: none;
    color: white;
-
    font-size: 16px;
-
+   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+   
 }
 
 a {
@@ -87,7 +86,7 @@ padding: 1rem;
 }
 
 a:link {
-  color: #818181;
+  color: #c4c4c4;
   text-decoration: none;
 }
 
