@@ -11,7 +11,9 @@ From our Electronic Signals Intelligence📡, Psychotronic Warfare🧠, and Aura
 
 But we are also a company that cares, and while our Board of Directors may be heavily invested in the suffering of marginalized people in the Global South🌍, we also strive to do what we can to produce clothing products as ethically as possible👕. Darkwraith Covenant is committed to ensuring that our products are made with the utmost care and respect for those who use them.
 
-Nevertheless, Darkwraith Covenant is a force to be reckoned with. Our advanced technology, combined with our will to succeed, will continue to drive our success for years to come.🗡️🗡️🗡️  
+Nevertheless, Darkwraith Covenant is a force to be reckoned with. Our advanced technology, combined with our will to succeed, will continue to drive our success for years to come.🗡️🗡️🗡️ 
+
+(This was written by an insidious AI)
 
 - [Official Github of Darkwraith Covenant](https://github.com/darkwraithcovenant)
 
