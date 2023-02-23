@@ -13,3 +13,5 @@ twitter:
 github_username:  darkwraithcovenant
 plugins:
   - jekyll-seo-tag
+facebook:
+  app_id: 3298743140374937
