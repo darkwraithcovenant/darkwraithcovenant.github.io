@@ -3,7 +3,7 @@ layout: post
 title:  "Manifesto For A Better Web"
 author: Jose
 published: true
-image: "/assets/images/made_with_windows.gif"
+badge: "/assets/images/made_with_windows.gif"
 
 ---
 

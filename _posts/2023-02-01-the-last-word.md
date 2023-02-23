@@ -2,7 +2,7 @@
 layout: post
 title:  "The Last Word Release"
 published: true
-image: "/assets/images/made_with_windows.gif"
+badge: "/assets/images/made_with_windows.gif"
 ---  
 <div class="vidalign">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3bP4ZFvVcy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -1,7 +1,7 @@
 ---
 title: About Darkwraith Covenant
 layout: default
-image: "/assets/images/angelfire.gif"
+badge: "/assets/images/angelfire.gif"
 ---
 #### Darkwraith Covenant Industries Incorporated Bio
 

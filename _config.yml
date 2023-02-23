@@ -1,9 +1,15 @@
 title: Darkwraith Covenant Blog
 email: darkwraithcovenant@gmail.com
+author: Jose
+logo: /assets/images/shirtsm.png
+tagline:  Ruminations about Music Technology, Programming, and Politics.
 excerpt_separator: <!-- excerpt-end -->
-description: 
-  Ruminations about Music Technology, Programming, and Politics. Official website of the open so
+description: Official website of the open source music and art project Darkwraith Coveant.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.darkwraithcovenant.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: darkwraithcoven
+twitter:
+  username: darkwraithcoven
+  card: summary
 github_username:  darkwraithcovenant
+plugins:
+  - jekyll-seo-tag

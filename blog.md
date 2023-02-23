@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Blog
-image: "/assets/images/made_with_windows.gif"
-
+title: Darkwraith Covenant Blog
+badge: "/assets/images/made_with_windows.gif"
 ---
 <ul>
   {% for post in site.posts %}

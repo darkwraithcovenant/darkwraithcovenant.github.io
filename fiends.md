@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fiends
-image: "/assets/images/raa.gif"
+badge: "/assets/images/raa.gif"
 ---
 
 {:refdef: style="text-align: center;"}
