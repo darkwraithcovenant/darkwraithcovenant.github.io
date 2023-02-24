@@ -21,12 +21,10 @@ Nevertheless, Darkwraith Covenant is a force to be reckoned with. Our advanced t
 
 - **Linktree:** [https://linktr.ee/darkwraithcovenant](https://linktr.ee/darkwraithcovenant)
 
-- **Email:** [darkwraithcovenant@gmail.com](mailto:darkwraithcovenant@gmail.com)
+- **Email:** [darkwraithcovenantpdx@gmail.com](mailto:darkwraithcovenantpdx@gmail.com)
 
 - **Modular Grid:** [https://www.modulargrid.net/e/racks/view/1257830](https://www.modulargrid.net/e/racks/view/1257830)
 
 - **DAW:** Ableton Live
 
 - **Live Hardware:** Apple Silicon M1 Macbook Pro w/ Ableton Live, Mutable Instruments Ambika, Toraiz AS-1, Modular Synth
-
-- **Website:** [http://www.darkwraithcovenant.com](http://www.darkwraithcovenant.com)
