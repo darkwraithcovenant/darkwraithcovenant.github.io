@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "Manifesto For A Better Web"
-author: Jose
+author: Darkwraith Covenant
 published: true
-badge: "/assets/images/made_with_windows.gif"
-
+badge: "/assets/images/badges/made_with_windows.gif"
+tags: tech web programming nostalgia
 ---
-
 **Why the social internet is unbearable now.**
 
 The way we consumed the social internet was much different when I first started learning HTML. It was a lot more democratized than it is today. It was more decentralized, and mega corporations had not yet taken over your eyes and flooded them with ads at the torrential levels they do today. *Insert quote from Naomi Klein's No Logo here*.

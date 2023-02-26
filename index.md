@@ -1,7 +1,7 @@
 ---
 title: "Darkwraith Covenant Industries"
 layout: default
-badge: "/assets/images/publicdomain.gif"
+badge: "/assets/images/badges/publicdomain.gif"
 ---
 <p style="text-align:center"><img src="./assets/images/nuke.gif" class="responsive"> Tour Done, Time to work on the site<img src="./assets/images/nuke.gif" class="responsive"></p>
 
