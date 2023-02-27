@@ -1,17 +1,20 @@
 ---
 layout: post
-title:  "Manifesto For A Better Web"
+title:  Manifesto For A Better Web
+description: Why the social internet is unbearable now
 author: Darkwraith Covenant
 published: true
+type: article
+image: "https://darkwraithcovenant.com/assets/images/blog_images/geoc.png"
 badge: "/assets/images/badges/made_with_windows.gif"
-tags: tech web programming nostalgia
+tags: tech web programming nostalgia culture
 ---
 **Why the social internet is unbearable now.**
 
 The way we consumed the social internet was much different when I first started learning HTML. It was a lot more democratized than it is today. It was more decentralized, and mega corporations had not yet taken over your eyes and flooded them with ads at the torrential levels they do today. *Insert quote from Naomi Klein's No Logo here*.
 
 <div class="vidalign">
-<img src="/assets/images/nologo.png" style="height: 60%; width: 60%;">
+<img src="/assets/images/blog_images/nologo.png" style="height: 60%; width: 60%;">
 </div>
 
 <div class="vidcap">
@@ -26,7 +29,9 @@ The internet used to be for us and by us - the nerds, the geeks, the punks, the 
 
 A lot of hateful, toxic behavior was allowed to go unchecked, with too many moderators and admins naively believing that non-meatspace interaction was not akin to real life. We've since made strides to protect the vulnerable and oppressed, though not without vicious backlash from those with zero interest in making the internet a better place for everyone. Much of this is due to the fact that we've been falsely lead to believe that we have no choice but to remain on the big social media sites. We've been conditioned to believe this is just the cost of doing business if you wish to interact with other humanoids on the internet. This, of course, is bullshit.
 
-We no longer stroll down the streets in a metaphorical open world (wide web), enjoying the parks, shops, restaurants, bars, venues, and - most importantly - *people* along the way. Instead we have stayed in one single towering megabuilding, riding an elevator up and down to different floors which open up to contrived walled gardens. With each new floor, social media sites serve you the content they think you want to see, making you forget at once that you're in the same building, owned by one company. None of these multi-billion dollar juggernauts care about your mental health and well being. The fact that you go to 3-4 different buildings - Facebook, Instagram, Twitter, Snapchat, etc. - merely provides an illusion of choice. You are no longer walking through the proverbial town square, in a wide world of town squares, each with unique offerings. How utterly dull! Why have we allowed this to happen? It's 202X, and Facebook still doesn't even have markdown or rich text editing.
+We no longer stroll down the streets in a metaphorical open world (wide web), enjoying the parks, shops, restaurants, bars, venues, and - most importantly - *people* along the way. Instead we have stayed in one single towering megabuilding, riding an elevator up and down to different floors which open up to contrived walled gardens. With each new floor, social media sites serve you the content they think you want to see, making you forget at once that you're in the same building, owned by one company. 
+
+None of these multi-billion dollar juggernauts care about your mental health and well being. The fact that you go to 3-4 different buildings - Facebook, Instagram, Twitter, Snapchat, etc. - merely provides an illusion of choice. You are no longer walking through the proverbial town square, in a wide world of town squares, each with unique offerings. How utterly dull! Why have we allowed this to happen? It's 202X, and Facebook still doesn't even have markdown or rich text editing.
 
 The world wide web used to be like     
 this: [][][][][][] like a scenic road,   
@@ -62,7 +67,7 @@ A personal webpage is an expression of the self, a canvas in a digital art galle
 This is why I support the Yesterweb movement and by extension the communities created on [neocities](https://neocities.org/), which you can read more about here: [Yesterweb.org](https://yesterweb.org/)
 
 <div class="vidalign">
-<img src="/assets/images/neocities.png" style="height: 60%; width: 60%;">
+<img src="/assets/images/blog_images/neocities.png" style="height: 60%; width: 60%;">
 </div>
 
 <div class="vidcap">

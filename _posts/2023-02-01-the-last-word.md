@@ -3,7 +3,9 @@ layout: post
 title:  "The Last Word Release"
 published: true
 author: Darkwraith Covenant
+description: Official Music Video release for Darkwraith Covenant - The Last Word
 badge: "/assets/images/badges/made_with_windows.gif"
+tags: darkwraithcovenant music
 ---  
 <div class="vidalign">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3bP4ZFvVcy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
