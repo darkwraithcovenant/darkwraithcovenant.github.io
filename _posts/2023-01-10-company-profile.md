@@ -62,7 +62,7 @@ The changes were incredible. It definitely seemed to understand what I was going
     Darkwraith Covenant is a name that strikes fear and awe into the 
     hearts of many, and for good reason.
 
-   So if you're looking for a Misfortune 500 company that is dedicated to the
+    So if you're looking for a Misfortune 500 company that is dedicated to the
     advancement of the dark arts and Paramilitary Defense, then Darkwraith
     Covenant Industries Incorporated is the perfect choice for you.
 
