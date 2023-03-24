@@ -8,7 +8,7 @@ badge: "/assets/images/badges/made_with_windows.gif"
 published: true
 type: article
 image: "https://darkwraithcovenant.com/assets/images/flyers/mar25flyer.png"
-newimg: "/assets/images/gifcity/new.gif" #make this disappear after a number of days with conditionals  
+#newimg: "/assets/images/gifcity/new.gif" #make this disappear after a number of days with conditionals  
 ---
 <div class="vidalign">
 <img src="/assets/images/flyers/mar24flyer.png" width="405" height="720" alt="March 24 @ Lo Rent Studio" class="responsive">

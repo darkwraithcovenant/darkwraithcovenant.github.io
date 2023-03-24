@@ -52,7 +52,6 @@ iframe {
  }
 
  p, li, ul, figcaption {
-  list-style-type: none;
    color: white;
    font-size: 16px;
    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
