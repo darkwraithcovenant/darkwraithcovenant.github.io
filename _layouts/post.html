@@ -2,9 +2,15 @@
 layout: default
 badge: "/assets/images/badges/made_with_windows.gif"
 ---
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<p>{{ page.date | date_to_string }} - by: {{ page.author }}</p>
 
 {{ content }}  
 
 <p><a href="/blog.html">Back</a> </p>
 
+<ul>
+{% for tag in page.tags %}
+<li class="inline archive_list">
+<a class="tag_list_link" href="/tag/{{ tag }}">{{ tag }}</a></li>
+{% endfor %}
+</ul>

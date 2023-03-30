@@ -1,17 +1,17 @@
-# allowed-tags:
-#   - AI
-#   - tech
-#   - web
-#   - programming
-#   - politics
-#   - culture
-#   - extremism
-#   - music
-#   - tutorials
-#   - Ableton
-#   - MaxMsp
-#   - fiction
-#   - nostalgia
-#   - darkwraithcovenant
-#   - shows
-#   - merch
+
+  - name: AI
+  - name:  tech
+  - name: web
+  - name: programming
+  - name: politics
+  - name: culture
+  - name: extremism
+  - name: music
+  - name: tutorials
+  - name: Ableton
+  - name: MaxMsp
+  - name: fiction
+  - name: nostalgia
+  - name: darkwraithcovenant
+  - name: shows
+  - name: merch

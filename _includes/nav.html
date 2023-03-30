@@ -1,7 +1,23 @@
       <nav>
         {% for item in site.data.navigation %}
-        <a href="{{ item.link }}" {% if page.url == item.link %} {% endif %}>
-         <button style="height: 40px;font-size: large;"><strong> {{ item.name }}</strong></button>
-        </a>
+        
+         <button style="height: 40px;font-size: large; ">
+           <a style="color: black; font-weight: bold;" href="{{ item.link }}" {% if page.url == item.link %} {% endif %}>
+           {{ item.name }}</strong></a></button>
+ 
         {% endfor %}
-      </nav>
+
+
+
+    <div class="dropdown">
+      <button onclick="myFunction()" class="dropbtn"  style="height: 40px;font-size: large;color: black; font-weight: bold;">CATEGORIES</button>
+      <div id="myDropdown" class="dropdown-content">
+
+          {% for item in site.data.tags%}
+          <a style="" href="{{ site.url}}/tag/{{ item.name }}/index.html">{{ item.name }}</a>
+          {% endfor %}
+  
+      </div>
+    </div>
+    
+  
