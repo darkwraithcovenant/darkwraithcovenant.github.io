@@ -7,8 +7,12 @@ body {
 .nav {
   
   text-align: center;
-  font-size: large;
+  font-size: large; 
 }
+button.active {
+  box-shadow: inset -1px -1px #ffffff, inset 1px 1px #0a0a0a,
+  inset -2px -2px #dfdfdf, inset 2px 2px #808080;
+  }
 
 .responsive {
 
@@ -55,7 +59,12 @@ iframe {
    color: white;
    font-size: 16px;
    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-   
+  
+}
+
+li.nobullet
+{
+  list-style-type: none;
 }
 
 a {
