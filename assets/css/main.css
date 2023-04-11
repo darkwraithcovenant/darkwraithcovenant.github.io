@@ -36,10 +36,10 @@ iframe { width: 720px; height: 480px }
    font-size: 16px;
    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
-/* 
+
  p.center {
-  justify-content: center;
- } */
+  text-align: center
+ } 
 
 
 /* removes bullets from list */
