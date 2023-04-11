@@ -3,7 +3,7 @@ layout: default
 title: Darkwraith Covenant Blog
 badge: "/assets/images/badges/made_with_windows.gif"
 ---
-<ul>
+<p>
   {% for post in site.posts %}
     <li class="nobullet">
      <img src="{{ post.newimg }}">  <a href="{{ post.url }}" class="blogtitle">{{ post.title }}</a>
@@ -11,4 +11,4 @@ badge: "/assets/images/badges/made_with_windows.gif"
     </li>
 <br>
   {% endfor %} 
-</ul>
+</p>
