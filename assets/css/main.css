@@ -3,21 +3,14 @@ body {
   background: rgb(45, 15, 15);
   cursor: url(/assets/images/cursor.cur), auto;
  }
-
-<<<<<<< Updated upstream
-.nav {
-  
-  text-align: center;
-  font-size: large;
-=======
- .header {
+ 
+  .header {
   display: flex;
   justify-content: center;
 }
 
 footer {
   padding: 1rem;
->>>>>>> Stashed changes
 }
 
 .responsive {
@@ -35,8 +28,6 @@ iframe {
   background-color: #000;
   color: rgb(191, 0, 0);
  }
-
-
 
 /* the main window content block */
 .block {   
@@ -67,20 +58,12 @@ iframe {
    color: white;
    font-size: 16px;
    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-<<<<<<< Updated upstream
-   
-=======
-}
-
-p.center {
-  text-align: center
 }
 
 /* removes bullets from list */
 li.nobullet
 {
   list-style-type: none;
->>>>>>> Stashed changes
 }
 
 /* resize ASCII logo for mobile */
