@@ -1,20 +1,23 @@
       <nav>
         {% for item in site.data.navigation %}
-        
-         <button style="height: 40px;font-size: large; ">
-           <a style="color: black; font-weight: bold;" href="{{ item.link }}" {% if page.url == item.link %} {% endif %}>
-           {{ item.name }}</strong></a></button>
- 
-        {% endfor %}
+    <a href="{{ item.link }}" >
+      <button style="height: 40px; font-size: large;" {% if page.url == item.link %}class="active"{% endif %}>
+        <span style="color: black; font-weight: bold;">{{ item.name }}</span>
+      </button>
+    </a>
+  {% endfor %}
 
     <div class="dropdown">
-      <button onclick="myFunction()" class="dropbtn"  style="height: 40px;font-size: large;color: black; font-weight: bold;">CATEGORIES</button>
-      <div id="myDropdown" class="dropdown-content">
 
+      {% if page.layout == 'post' or page.url contains '/blog.html' or page.url contains '/tag' %}
+      <button onclick="myFunction()" class="dropbtn"  
+      style="height: 40px;font-size: large;color: black; font-weight: bold;">CATEGORIES</button>
+      {% endif %}
+      <div id="myDropdown" class="dropdown-content">
           {% for item in site.data.tags%}
-          <a style="" href="{{ site.url}}/tag/{{ item.name }}/index.html">{{ item.name }}</a>
+          <a href="{{ site.url}}/tag/{{ item.name }}/index.html">{{ item.name }}</a>
           {% endfor %}
-  
-      </div>
+    </div>
+
     </div>
     </nav>

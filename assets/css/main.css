@@ -9,9 +9,28 @@ body {
   justify-content: center;
 }
 
+
 footer {
   padding: 1rem;
+
+.nav {
+  
+  text-align: center;
+
+
+  font-size: large;
 }
+ 
+  .header {
+  display: flex;
+  justify-content: center;
+}
+
+button.active {
+  box-shadow: inset -1px -1px #ffffff, inset 1px 1px #0a0a0a,
+  inset -2px -2px #dfdfdf, inset 2px 2px #808080;
+  }
+
 
 .responsive {
   max-width: 35%;
@@ -54,10 +73,32 @@ iframe {
 }
 
 /* site-wide text styling */
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.mypre {
+  background-color: #000;
+  color: rgb(191, 0, 0);
+ }
+ 
  p, li, ul, figcaption {
    color: white;
    font-size: 16px;
    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+
+  
+}
+
+li.nobullet
+{
+  list-style-type: none;
+}
+
+a {
+  word-wrap: break-word;
 }
 
 /* removes bullets from list */
@@ -104,6 +145,8 @@ button.active {
 /* dropdown for nav*/
 .dropbtn:hover, .dropbtn:focus {
   background-color: lightgrey;
+  box-shadow: inset -1px -1px #ffffff, inset 1px 1px #0a0a0a,
+  inset -2px -2px #dfdfdf, inset 2px 2px #808080;
 }
 
 .dropdown {
