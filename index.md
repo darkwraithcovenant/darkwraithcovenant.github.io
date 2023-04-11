@@ -13,13 +13,12 @@ badge: "/assets/images/badges/publicdomain.gif"
 <iframe src="https://www.youtube.com/embed/3bP4ZFvVcy4" frameborder="30"  allow="accelerometer;clipboard-write; encrypted-media; modest-branding; gyroscope; picture-in-picture; web-share" allowfullscreen > </iframe>
 </div>
 
-- [Official Github of Darkwraith Covenant](https://github.com/darkwraithcovenant)
 
-- **Genre:** EBM, TBM, Electro, Industrial
+- [Official Github of Darkwraith Covenant](https://github.com/darkwraithcovenant)  
 
-- **Linktree:** [https://linktr.ee/darkwraithcovenant](https://linktr.ee/darkwraithcovenant)
+- **Genre:** EBM, TBM, Electro, Industrial  
 
-- **Email:** [darkwraithcovenantpdx@gmail.com](mailto:darkwraithcovenantpdx@gmail.com)
+- **Linktree:** [https://linktr.ee/darkwraithcovenant](https://linktr.ee/darkwraithcovenant)  
 
-
+- **Email:** [darkwraithcovenantpdx@gmail.com](mailto:darkwraithcovenantpdx@gmail.com)  
 

@@ -1,140 +1,63 @@
-body {
-  color: white;
-  background: rgb(45, 15, 15);
-  cursor: url(/assets/images/cursor.cur), auto;
- }
+body { color: white; background: rgb(45, 15, 15);cursor: url(/assets/images/cursor.cur), auto; }
  
-  .header {
-  display: flex;
-  justify-content: center;
-}
+.header { display: flex; justify-content: center;}
 
+footer { padding: 1rem; }
 
-footer {
-  padding: 1rem;
-
-.nav {
-  
-  text-align: center;
-
-
-  font-size: large;
-}
+.nav { text-align: center; font-size: large; }
  
-  .header {
-  display: flex;
-  justify-content: center;
-}
+.header { display: flex; justify-content: center; }
 
 button.active {
   box-shadow: inset -1px -1px #ffffff, inset 1px 1px #0a0a0a,
   inset -2px -2px #dfdfdf, inset 2px 2px #808080;
-  }
-
-
-.responsive {
-  max-width: 35%;
-  height: auto;
 }
 
-iframe {
-  width: 720px;
-  height: 480px
-}
+.responsive { max-width: 35%; height: auto; }
+
+iframe { width: 720px; height: 480px }
 
  /* styles the ASCII logo */
-.logopre {
-  background-color: #000;
-  color: rgb(191, 0, 0);
- }
+.logopre { background-color: #000; color: rgb(191, 0, 0); }
 
 /* the main window content block */
-.block {   
-  padding: 10px
-}
-.blogtitle {
-  font-size: large;
-}
+.block { padding: 10px }
+
+.blogtitle { font-size: large; }
 
 /* alignment for videos */
-.vidalign {
-  padding: 1em;
-  text-align: center;
-  display: flex;
-  justify-content: center;
-}
+.vidalign { padding: 1em; text-align: center; display: flex; justify-content: center }
 
-.vidcap {
-  justify-content: center;
-  color: white;
-  font-weight: normal;
-  font-style: normal;
-  text-align: center;
-}
+.vidcap { justify-content: center; color: white; font-weight: normal; font-style: normal; text-align: center; }
 
 /* site-wide text styling */
-
-.header {
-  display: flex;
-  justify-content: center;
-}
-
-.mypre {
-  background-color: #000;
-  color: rgb(191, 0, 0);
- }
- 
  p, li, ul, figcaption {
    color: white;
    font-size: 16px;
    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-
-  
 }
+/* 
+ p.center {
+  justify-content: center;
+ } */
 
-li.nobullet
-{
-  list-style-type: none;
-}
-
-a {
-  word-wrap: break-word;
-}
 
 /* removes bullets from list */
-li.nobullet
-{
-  list-style-type: none;
-}
+li.nobullet { list-style-type: none;}
 
 /* resize ASCII logo for mobile */
 @media only screen and (max-width: 950px) { 
-  pre {
-    font-size : 3pt;
-  }
+  pre {font-size : 3pt;}
 }
 
 /* link stuff */
 /* word wrapping for links */
-a {
-  word-wrap: break-word;
-}
-
-a:link, a:visited {
-  color:#ffae00;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #ff0081;
-  text-decoration: none;
-}
+a { word-wrap: break-word;}
+a:link, a:visited { color:#ffae00; text-decoration: none; }
+a:hover { color: #ff0081; text-decoration: none; }
 
  /* navbar stuff */
- .nav {
-  text-align: center;
-  font-size: large; 
-}
+ .nav { text-align: center; font-size: large; }
 
  /* styling for the engaged nav button */
 button.active {
@@ -143,17 +66,11 @@ button.active {
 }
 
 /* dropdown for nav*/
-.dropbtn:hover, .dropbtn:focus {
-  background-color: lightgrey;
-  box-shadow: inset -1px -1px #ffffff, inset 1px 1px #0a0a0a,
+.dropbtn:hover, .dropbtn:focus { background-color: lightgrey; box-shadow: inset -1px -1px #ffffff, inset 1px 1px #0a0a0a,
   inset -2px -2px #dfdfdf, inset 2px 2px #808080;
 }
 
-.dropdown {
-  position: relative;
-  display: inline-block;
-  
-}
+.dropdown { position: relative; display: inline-block; }
 
 .dropdown-content {
   display: none;
