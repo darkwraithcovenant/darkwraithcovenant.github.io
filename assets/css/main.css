@@ -30,10 +30,15 @@ iframe { width: 720px; height: 480px }
 
 .vidcap { justify-content: center; color: white; font-weight: normal; font-style: normal; text-align: center; }
 
+/* alignment for figures */
+figure.center{ text-align: center;}
+
+figcaption.center{ font-size: 11px; text-align: center; }
+
 /* site-wide text styling */
  p, li, ul, figcaption {
    color: white;
-   font-size: 16px;
+   font-size: 15px;
    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
