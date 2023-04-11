@@ -26,7 +26,7 @@ iframe { width: 720px; height: 480px }
 .blogtitle { font-size: large; }
 
 /* alignment for videos */
-.vidalign { padding: 1em; text-align: center; display: flex; justify-content: center }
+.vidalign { padding: 1em; text-align: center; display: flex; justify-content: center;  }
 
 .vidcap { justify-content: center; color: white; font-weight: normal; font-style: normal; text-align: center; }
 
