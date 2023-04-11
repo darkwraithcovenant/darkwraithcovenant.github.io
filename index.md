@@ -3,7 +3,17 @@ title: "Darkwraith Covenant Industries"
 layout: default
 badge: "/assets/images/badges/publicdomain.gif"
 ---
+<<<<<<< Updated upstream
 <p style="text-align:center"><img src="./assets/images/gifcity/nuke.gif" class="responsive"> Tour Done, Time to work on the site<img src="./assets/images/gifcity/nuke.gif" class="responsive"></p>
+=======
+<img src="./assets/images/gifcity/nuke.gif" class="responsive">
+<p class="center"> May 15 @ The Crypt, Olympia - MVTANT, Static Ghost, Michael Landscape (mem. of Chrome Corps)
+<p class="center"> May 25 @ Shanghai Tunnel - Physical Wash, Bear Spray and Feed Fatigue. Insane lineup of noise and EBM. </p>
+
+
+
+<img src="./assets/images/gifcity/nuke.gif" class="responsive">
+>>>>>>> Stashed changes
 
 <div class="vidalign">
 <iframe src="https://www.youtube.com/embed/3bP4ZFvVcy4" frameborder="30"  allow="accelerometer;clipboard-write; encrypted-media; modest-branding; gyroscope; picture-in-picture; web-share" allowfullscreen > </iframe>

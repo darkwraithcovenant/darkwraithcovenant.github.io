@@ -4,14 +4,23 @@ body {
   cursor: url(/assets/images/cursor.cur), auto;
  }
 
+<<<<<<< Updated upstream
 .nav {
   
   text-align: center;
   font-size: large;
+=======
+ .header {
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  padding: 1rem;
+>>>>>>> Stashed changes
 }
 
 .responsive {
-
   max-width: 35%;
   height: auto;
 }
@@ -21,11 +30,23 @@ iframe {
   height: 480px
 }
 
-/* the content block */
+ /* styles the ASCII logo */
+.logopre {
+  background-color: #000;
+  color: rgb(191, 0, 0);
+ }
+
+
+
+/* the main window content block */
 .block {   
   padding: 10px
 }
+.blogtitle {
+  font-size: large;
+}
 
+/* alignment for videos */
 .vidalign {
   padding: 1em;
   text-align: center;
@@ -41,67 +62,63 @@ iframe {
   text-align: center;
 }
 
-.header {
-  display: flex;
-  justify-content: center;
-}
-
-.mypre {
-  background-color: #000;
-  color: rgb(191, 0, 0);
- }
-
+/* site-wide text styling */
  p, li, ul, figcaption {
    color: white;
    font-size: 16px;
    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+<<<<<<< Updated upstream
    
+=======
 }
 
-a {
-  word-wrap: break-word;
+p.center {
+  text-align: center
 }
 
-/*
-h1, h2, h3, h4 {
-   color: white;
-   font-weight: normal;
-   font-style: normal;
+/* removes bullets from list */
+li.nobullet
+{
+  list-style-type: none;
+>>>>>>> Stashed changes
 }
-*/
 
-footer {
-padding: 1rem;
-  }
-  
+/* resize ASCII logo for mobile */
 @media only screen and (max-width: 950px) { 
   pre {
     font-size : 3pt;
   }
-
 }
 
-.blogtitle {
-  font-size: large;
+/* link stuff */
+/* word wrapping for links */
+a {
+  word-wrap: break-word;
 }
 
-a:link {
+a:link, a:visited {
   color:#ffae00;
   text-decoration: none;
-}
-
-a:visited {
-  color:#ffae00;
-  text-decoration: none;
-
 }
 
 a:hover {
   color: #ff0081;
   text-decoration: none;
 }
-a
 
+ /* navbar stuff */
+ .nav {
+  text-align: center;
+  font-size: large; 
+}
+
+ /* styling for the engaged nav button */
+button.active {
+  box-shadow: inset -1px -1px #ffffff, inset 1px 1px #0a0a0a,
+  inset -2px -2px #dfdfdf, inset 2px 2px #808080;
+}
+
+/* dropdown for nav*/
 .dropbtn:hover, .dropbtn:focus {
   background-color: lightgrey;
 }
@@ -115,7 +132,7 @@ a
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f1f1f1;
+  background-color: silver;
   overflow: auto;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
