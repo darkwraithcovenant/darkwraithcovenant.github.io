@@ -8,10 +8,6 @@ footer { padding: 1rem; }
  
 .header { display: flex; justify-content: center; }
 
-button.active {
-  box-shadow: inset -1px -1px #ffffff, inset 1px 1px #0a0a0a,
-  inset -2px -2px #dfdfdf, inset 2px 2px #808080;
-}
 
 .responsive { max-width: 35%; height: auto; }
 
@@ -45,7 +41,6 @@ figcaption.center{ font-size: 11px; text-align: center; }
  p.center {
   text-align: center
  } 
-
 
 /* removes bullets from list */
 li.nobullet { list-style-type: none;}
