@@ -5,9 +5,12 @@
 body,html {background-color: black;background-image: url("/assets/images/blog_images/hacked.jpg");}
 .small
 {line-height:2px;}
-.desktop-bg {color:white;height: 92vh;}
-.icon { text-align:center;width:55px;padding:5px;margin:2px;font-family: "Pixelated MS Sans Serif";font-weight: normal;
-font-style: normal;background-color: black;}
+span.row {
+  display: flex;
+ }
+.desktop-bg {color:white;height: 92vh; }
+.icon { text-align:center; height: 80px; width:55px;padding:5px;margin:2px;font-family: "Pixelated MS Sans Serif";font-weight: normal;
+font-style: normal;background-color: black; }
 </style>
 
 <title>Darkwraith Covenant Industries</title>
@@ -19,13 +22,14 @@ font-style: normal;background-color: black;}
   
     <div class ="desktop-bg">
       
+      <span class="row">
       <div class="icon">
         <a href="./blog.html"><img src="./assets/icons/briefcase-2.png" alt="Blog"></a><br>
         Blog
       </div>  
       
       <div class= "icon">      
-        <a href="https://www.youtube.com/@josedelara5334"><img src="./assets/icons/camera3_vid-4.png" alt="Youtube"></a><br>
+        <a href="https://www.youtube.com/channel/UCev2WAErcSm9xdURPniM-hw"><img src="./assets/icons/camera3_vid-4.png" alt="Youtube"></a><br>
         Youtube
       </div>    
 
@@ -48,9 +52,22 @@ font-style: normal;background-color: black;}
         <a href=""><img src="./assets/icons/world-2.png" alt="Hellscape (coming soon)"></a><br>
         Hellscape
       </div>    
-    
+
+    </span>
+
+      <div class="window" style="margin: 32px; width: 250px;color: black;">
+        <div class="title-bar">
+          <div class="title-bar-text">This page is under construction</div>
+          <div class="title-bar-controls"><button aria-label="Minimize"></button><button aria-label="Maximize"></button><button aria-label="Close"></button></div>
+        </div>
+        <div class="window-body">
+          <p>We are working on it!</p>
+          <section class="field-row" style="justify-content: flex-end">
+            <button>Don't</button><button>Fret!</button>
+          </section>
+        </div>
+      </div>
     </div>
-   
 
   <div class="window">
     <div class="window-body" style="margin: 0px;">
