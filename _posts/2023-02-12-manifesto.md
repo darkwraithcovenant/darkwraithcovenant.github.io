@@ -67,7 +67,7 @@ A personal webpage is an expression of the self, a canvas in a digital art galle
 This is why I support the Yesterweb movement and by extension the communities created on [neocities](https://neocities.org/), which you can read more about here: [Yesterweb.org](https://yesterweb.org/)
 
 <div class="vidalign">
-<img src="/assets/images/blog_images/neocities.png" style="height: 60%; width: 60%;">
+<img src="/assets/images/blog_images/neocities.png" class="res">
 </div>
 
 <div class="vidcap">
