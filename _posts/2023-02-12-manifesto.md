@@ -14,7 +14,7 @@ tags: tech web programming nostalgia culture
 The way we consumed the social internet was much different when I first started learning HTML. It was a lot more democratized than it is today. It was more decentralized, and mega corporations had not yet taken over your eyes and flooded them with ads at the torrential levels they do today. *Insert quote from Naomi Klein's No Logo here*.
 
 <div class="vidalign">
-<img src="/assets/images/blog_images/nologo.png" style="height: 60%; width: 60%;">
+<img src="/assets/images/blog_images/nologo.png" class="res">
 </div>
 
 <div class="vidcap">
