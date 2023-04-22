@@ -12,7 +12,7 @@ newimg: "/assets/images/gifcity/new.gif" #make this disappear after a number of 
 **Aesthetic.**
 It probably comes as no surprise, but I really love the grainy, 1980s lo-fi VHS aesthetic. This is a style that is rooted in the spongey expansion of my tiny little child brain, and many of my early childhood memories are deeply encoded with images like this one from the 1986 VHS version of ROTJ:
 <figure class="center">
-<img src="/assets/images/blog_images/SW.png" width="50%" alt="Star Wars VHS Screenshot">
+<img src="/assets/images/blog_images/SW.png" class="res" alt="Star Wars VHS Screenshot">
 <figcaption class="center">VHS Screenshot from Return of the Jedi. Courtesy of 20th Century Fox</figcaption>
 </figure>
 
@@ -34,13 +34,13 @@ There are a number of ways to achieve this effect, to varying degrees of image d
 **Step 1: Download a picture from the internet.**  
 In this case, I downloaded random hi-res picture of a cyberpunk anime girl from google image search. Credit to artist: [vinneart on Twitter.](https://twitter.com/vinneart)
 <figure class="center">
-<img src="/assets/images/blog_images/cypnk.jpg" width="30%" alt="Cyberpunk Girl">
+<img src="/assets/images/blog_images/cypnk.jpg" class="res" alt="Cyberpunk Girl">
 </figure>
 
 **Step 2: Prepare the image.**  
 Open the image in a photo preview app on your computer that can do fullscreen. You will get the best results if the program can fullscreen and surround the image with black bars. I use the Preview App built-in to OSX. 
 <figure class="center">
-<img src="/assets/images/blog_images/prevcy.png" width="50%" alt="Cyberpunk preview">
+<img src="/assets/images/blog_images/prevcy.png" class="res" alt="Cyberpunk preview">
 </figure>
 
 **Step 3: Darken the room.**    
@@ -51,15 +51,15 @@ Take a screen grab of the image through the VHS filter app's viewfinder, using i
 
 Don't worry about the app's GUI elements, we will crop those out in "post." It is best to use a tripod to center things, but you can actually get away with just holding it in your hand. Just make sure it is in focus and you are not holding the phone camera too close to the screen. Just be aware that holding it at an angle from the screen instead of straight on will skew the image, which you may not want. You can also record video with the app if you want to create a video flyer as well.  
 <figure class="center">
-<img src="/assets/images/blog_images/cypcap.png" width="50%" alt="Cyberpunk preview">
+<img src="/assets/images/blog_images/cypcap.png" class="res" alt="Cyberpunk preview">
 </figure>
 
 **Step 5: Crop, rotate and adjust the image.**  
 A couple of quick caveats: I should mention that in Rarevision VHS, it's best to use landscape mode, but tilted on its side. There is a quirk with this app in that it cuts off the sides when using it in portrait mode, I do not recommend this as it will take extra steps to get it to crop properly. Another is that if you are making flyers for Instagram stories, it's best to use 16:9 aspect ratio to fill the whole screen, otherwise 4:3 is best for posts and print media. Experiment with this. 
 You can now crop and adjust the image with your phone or send it to your computer and crop the image there in the photo editing software of your choice. The built-in apps work just fine. 
 <figure class="center">
-<img src="/assets/images/blog_images/cypcrop.png" width="30%" alt="Cyberpunk crop">
-<img src="/assets/images/blog_images/cypadjust.png" width="30%" alt="Cyberpunk adjust">
+<img src="/assets/images/blog_images/cypcrop.png" class="res" alt="Cyberpunk crop">
+<img src="/assets/images/blog_images/cypadjust.png" class="res" alt="Cyberpunk adjust">
 <figcaption class="center">Cropped. vs. Adjusted.</figcaption>
 
 </figure>
@@ -73,12 +73,12 @@ Rarevision has its own titler built into the app for an authentic 80s camcorder 
 Type up the text in the titler, and take another screenshot of it but cover the camera (or darken the room) so that it is completely black and the text has maximum contrast with the background. To further create contrast, I usually adjust the image and bump up the black point and contrast. You can experiment freely here as well.
 Here is what the adjusted and cropped text should look.  
 <figure class="center">
-<img src="/assets/images/blog_images/flyertxtex.png" width="30%" alt="Cyberpunk flyer text">
+<img src="/assets/images/blog_images/flyertxtex.png" class="res" alt="Cyberpunk flyer text">
 </figure>
 
 - Designing the text yourself over a custom background will give you the most flexibility, but the worflow is slightly different. The easiest way to do it is to take a screenshot of a plain black background and add text to it. I used the built-in screenshot + markup app in MacOS. Follow the same workflow from the image screencapture in step 4 to get the lo-fi effect back.
 <figure class="center">
-<img src="/assets/images/blog_images/textcustom.png" width="30%" alt="Cyberpunk custom text">
+<img src="/assets/images/blog_images/textcustom.png" class="res" alt="Cyberpunk custom text">
 </figure>  
 
 **Step 7: Overlay the text over the image.** 
@@ -86,8 +86,8 @@ You can use Photoshop, but I use GIMP because it's free. This part is easy, you 
 
 Here is the end result side by side with the original.
 <figure class="center">
-<img src="/assets/images/blog_images/cypnk.jpg" width="30%" alt="Cyberpunk Girl">
-<img src="/assets/images/blog_images/cybfinal.png" width="30%" alt="Cyberpunk Flyer Final">
+<img src="/assets/images/blog_images/cypnk.jpg" class="res" alt="Cyberpunk Girl">
+<img src="/assets/images/blog_images/cybfinal.png" class="res" alt="Cyberpunk Flyer Final">
 </figure>  
 
 Have fun!
