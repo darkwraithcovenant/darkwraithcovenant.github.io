@@ -10,7 +10,7 @@ footer { padding: 1rem; }
 
 .responsive { max-width: 35%; height: auto; }
 
-img.res { width: 30%; height: auto;}
+img.res { max-width: 50%; height: auto;}
 
 audio.res { max-width: 100%;}
 
