@@ -12,7 +12,7 @@ newimg: "/assets/images/gifcity/new.gif" #make this disappear after a number of 
 **Aesthetic.**
 It probably comes as no surprise, but I really love the grainy, 1980s lo-fi VHS aesthetic. This is a style that is rooted in the spongey expansion of my tiny little child brain, and many of my early childhood memories are deeply encoded with images like this one from the 1986 VHS version of ROTJ:
 <figure class="center">
-<img src="/assets/images/blog_images/sw.png" width="50%" alt="Star Wars VHS Screenshot">
+<img src="/assets/images/blog_images/SW.png" width="50%" alt="Star Wars VHS Screenshot">
 <figcaption class="center">VHS Screenshot from Return of the Jedi. Courtesy of 20th Century Fox</figcaption>
 </figure>
 
