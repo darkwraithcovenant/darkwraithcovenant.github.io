@@ -20,7 +20,7 @@ iframe { width: 720px; height: 480px }
 .logopre { background-color: #000; color: rgb(191, 0, 0); }
 
 /* the main window content block */
-.block { padding: 1px }
+.block { padding: 1rem }
 
 .blogtitle { font-size: large; }
 
