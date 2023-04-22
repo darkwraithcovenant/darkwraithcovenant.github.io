@@ -9,7 +9,7 @@ published: True
 image: "https://darkwraithcovenant.com/assets/images/blog_images/Flyer5-15-23.png"
 newimg: "/assets/images/gifcity/new.gif" #make this disappear after a number of days with conditionals  
 ---
-**Aesthetic.**
+**Aesthetic.**  
 It probably comes as no surprise, but I really love the grainy, 1980s lo-fi VHS aesthetic. This is a style that is rooted in the spongey expansion of my tiny little child brain, and many of my early childhood memories are deeply encoded with images like this one from the 1986 VHS version of ROTJ:
 <figure class="center">
 <img src="/assets/images/blog_images/SW.png" class="res" alt="Star Wars VHS Screenshot">

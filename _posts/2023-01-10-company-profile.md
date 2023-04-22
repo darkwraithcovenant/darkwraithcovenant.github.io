@@ -47,13 +47,13 @@ Not bad, but the tone isn’t right, I set it to excited and it’s not dark eno
 <figure>
 
 <figcaption>I probably shouldn’t have used this:</figcaption>
-<img src="/assets/images/blog_images/excitedtone.jpg" alt="excitedtone" width="50%">
+<img src="/assets/images/blog_images/excitedtone.jpg" alt="excitedtone" class="res">
 
 </figure>
 
 <figure>
 <figcaption>But when I used this instead:</figcaption>
-<img src="/assets/images/blog_images/dramatictone.jpg" alt="dramatictone" width="50%">
+<img src="/assets/images/blog_images/dramatictone.jpg" alt="dramatictone" class="res">
 
 </figure>  
 

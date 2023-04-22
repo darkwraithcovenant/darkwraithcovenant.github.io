@@ -10,7 +10,7 @@ footer { padding: 1rem; }
 
 .responsive { max-width: 35%; height: auto; }
 
-img.res { max-width: 100%;}
+img.res { max-width: 100%;height: auto; }
 
 audio.res { max-width: 100%;}
 
@@ -30,7 +30,7 @@ iframe { width: 720px; height: 480px }
 .vidcap { justify-content: center; color: white; font-weight: normal; font-style: normal; text-align: center; }
 
 /* alignment for figures */
-figure.center{ text-align: center;}
+figure.center{ text-align: center;  height:auto}
 
 figcaption.center{ font-size: 11px; text-align: center; }
 
