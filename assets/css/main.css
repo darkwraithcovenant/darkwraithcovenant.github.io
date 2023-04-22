@@ -10,7 +10,7 @@ footer { padding: 1rem; }
 
 .responsive { max-width: 35%; height: auto; }
 
-img.res { max-width: 100%; height: auto;}
+img.res { max-width: 100%;}
 
 audio.res { max-width: 100%;}
 
@@ -20,7 +20,7 @@ iframe { width: 720px; height: 480px }
 .logopre { background-color: #000; color: rgb(191, 0, 0); }
 
 /* the main window content block */
-.block { padding: 1rem }
+.block { padding: 1px }
 
 .blogtitle { font-size: large; }
 
