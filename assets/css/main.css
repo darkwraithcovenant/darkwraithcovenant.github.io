@@ -1,4 +1,4 @@
-body { color: white; background: rgb(45, 15, 15);cursor: url(/assets/images/cursor.cur), auto; }
+body { color: white; background: rgb(45, 15, 15);cursor: url(/assets/images/cursor.cur), auto; padding: 1rem;}
  
 .header { display: flex; justify-content: center;}
 
@@ -8,7 +8,12 @@ footer { padding: 1rem; }
  
 .header { display: flex; justify-content: center; }
 
-.responsive { max-width: 35%; height: auto; }
+.responsive { max-width: 100%; height: auto; }
+
+.title-bar-text {
+  font-size:x-large;
+
+}
 
 img.res { max-width: 100%;height: auto; }
 
