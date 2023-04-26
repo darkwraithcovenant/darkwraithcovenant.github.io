@@ -15,7 +15,7 @@ footer { padding: 1rem; }
 
 }
 
-img.res { max-width: 100%;height: auto; }
+img.res { max-width: 100%;height: auto;filter: drop-shadow(0.25rem 0.25rem 0.5rem #000000); }
 
 audio.res { max-width: 100%;}
 

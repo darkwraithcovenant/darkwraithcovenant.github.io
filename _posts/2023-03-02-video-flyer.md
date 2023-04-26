@@ -10,9 +10,10 @@ type: article
 image: "https://darkwraithcovenant.com/assets/images/flyers/mar25flyer.png"
 #newimg: "/assets/images/gifcity/new.gif" #make this disappear after a number of days with conditionals  
 ---
-<div class="vidalign">
-<img src="/assets/images/flyers/mar24flyer.png" width="405" height="720" alt="March 24 @ Lo Rent Studio" class="responsive">
-<img src="/assets/images/flyers/mar25flyer.png" width="405" height="720" alt="March 25 @ Azoth" class="responsive">
-<img src="/assets/images/flyers/mar26flyer.png" width="405" height="720" alt="March 26 @ Shanghai Tunnel" class="responsive">
-</div>
+<figure class="center">
+<img src="/assets/images/flyers/mar24flyer.png" alt="March 24 @ Lo Rent Studio" class="res" style="display:flex">
+<img src="/assets/images/flyers/mar25flyer.png" alt="March 25 @ Azoth" class="res" style="display:flex">
+<img src="/assets/images/flyers/mar26flyer.png" alt="March 26 @ Shanghai Tunnel" class="res" style="display:flex">
+</figure>
+
 
