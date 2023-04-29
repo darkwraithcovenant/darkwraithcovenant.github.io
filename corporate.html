@@ -2,6 +2,7 @@
 <html>
 <head>
 <style>
+ 
 body,html {background-color: black;background-image: url("/assets/images/blog_images/hacked.jpg");}
 .small
 {line-height:2px;}
@@ -12,56 +13,55 @@ span.row {
 .icon { text-align:center; height: 80px; width:55px;padding:5px;margin:2px;font-family: "Pixelated MS Sans Serif";font-weight: normal;
 font-style: normal;background-color: black; }
 </style>
-
 <title>Darkwraith Covenant Industries</title>
   <meta charset="UTF-8" />
   <link rel="stylesheet" href="https://unpkg.com/98.css@0.1.4/build/98.css" />
 </head>
-
 <body>
-  
+  <script src="/assets/js/windows.js"></script>
     <div class ="desktop-bg">
-      
       <span class="row">
-      <div class="icon">
-        <a href="./blog.html"><img src="./assets/icons/briefcase-2.png" alt="Blog"></a><br>
-        Blog
-      </div>  
+        <div class="icon">
+          <a href="./blog.html"><img src="./assets/icons/briefcase-2.png" alt="Blog"></a><br>
+          Blog
+        </div>  
+        <div class= "icon">      
+          <a href="https://www.youtube.com/channel/UCev2WAErcSm9xdURPniM-hw"><img src="./assets/icons/camera3_vid-4.png" alt="Youtube"></a><br>
+          Youtube
+        </div>    
+        <div class= "icon">      
+          <a href="https://instagram.com/darkwraithcovenant"><img src="./assets/icons/camera3-2.png" alt="instagram"></a><br>
+          Instagram
+        </div>     
+        <div class= "icon">      
+          <a href="./fiends.html"><img src="./assets/icons/msagent-4.png" alt="Oppositional re/search"></a><br>
+          Oppositional Re/search
+        </div>
+        <div class= "snatcher icon">      
+          <img src="./assets/icons/joystick-4.png" alt="Snatcher"></a><br>
+          Snatcher
+        </div>
+        <div class= "test icon">      
+          <img src="./assets/icons/world-2.png" alt="Test"></a><br>
+          Test
+        </div>        
+              
       
-      <div class= "icon">      
-        <a href="https://www.youtube.com/channel/UCev2WAErcSm9xdURPniM-hw"><img src="./assets/icons/camera3_vid-4.png" alt="Youtube"></a><br>
-        Youtube
-      </div>    
+      </span> <!--End of the Row of icons-->
 
-      <div class= "icon">      
-        <a href="https://instagram.com/darkwraithcovenant"><img src="./assets/icons/camera3-2.png" alt="instagram"></a><br>
-        Instagram
-      </div>     
-
-     
-
-      <div class= "icon">      
-        <a href="./fiends.html"><img src="./assets/icons/msagent-4.png" alt="Oppositional re/search"></a><br>
-        Oppositional Re/search
-      </div>    
-
-      
-
-    </span>
-
-      <div class="window" style="width:620px;color: black;height:auto">
+      <div class="window" style="width:620px;color: black;height:auto; display: none;">
         <div class="title-bar">
-          <div class="title-bar-text">Play Snatcher</div>
-          <div class="title-bar-controls"><button aria-label="Minimize"></button><button aria-label="Maximize"></button><button aria-label="Close"></button></div>
+          <div class="title-bar-text"></div>
+          <div class="title-bar-controls"><button aria-label="Minimize" id="minimize"></button><button aria-label="Maximize" id="maximize"></button>
+            <button aria-label="Close" id="close"></button></div>
         </div>
         <div class="window-body">
-          <iframe src="https://www.retrogames.cc/embed/40752-snatcher.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
-      
-          </section>
+          <!--this is where content goes via script-->
         </div>
       </div>
-    
-      <div class="window">
+      
+      <!--the windows taskbar-->
+      <div class="window" style=" position:fixed; bottom: 0; width: 100%;">
         <div class="window-body" style="margin: 0px;height:auto; width:100%">
           <section class="field-row" style="justify-content: left">      
             <button style="width: auto; height: 35px; font-size: medium; font-weight: bold;">
@@ -70,10 +70,7 @@ font-style: normal;background-color: black; }
           </section>
         </div>
       </div>
-      
     
-    </div>
-
-  
+    </div> <!--this is the end of the dt bg -->
 </body>
 </html>
