@@ -38,6 +38,30 @@ window.onload = function() {
           document.querySelector('.title-bar-text').innerHTML = text;
           document.querySelector('.window-body').innerHTML = "Don't mind the mess, we are just testing javascript!!!";
         }
+
+        if (classList.contains('blog')) {
+            windowDiv.style.display = 'block';
+            currentOpenIcon = 'blog'; // Store the opened icon's class
+            let text = "DWC Blog";
+            document.querySelector('.title-bar-text').innerHTML = text;
+            document.querySelector('.window-body').innerHTML = `
+              <iframe src="https://darkwraithcovenant.com/blog" width="800" height="600" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="yes"> </iframe>
+            `;
+        }
+
+        if (classList.contains('youtube')) {
+          windowDiv.style.display = 'block';
+          currentOpenIcon = 'youtube'; // Store the opened icon's class
+          let text = "Youtube";
+          document.querySelector('.title-bar-text').innerHTML = text;
+          document.querySelector('.window-body').innerHTML = `
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/3bP4ZFvVcy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          `;
+        }        
+
+        
+
+
       });
     });
   };

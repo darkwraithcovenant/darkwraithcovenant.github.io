@@ -3,15 +3,30 @@
 <head>
 <style>
  
-body,html {background-color: black;background-image: url("/assets/images/blog_images/hacked.jpg");}
+body,html {background-color: black;}
 .small
 {line-height:2px;}
+.main {
+  color: black;
+  height:auto; 
+  display: none;
+  height: fit-content;
+  width: fit-content;
+}
+txt{
+  background-color: black;
+
+}
 span.row {
   display: flex;
  }
 .desktop-bg {color:white;height: 92vh; }
-.icon { text-align:center; height: 80px; width:55px;padding:5px;margin:2px;font-family: "Pixelated MS Sans Serif";font-weight: normal;
-font-style: normal;background-color: black; }
+img:focus {
+  outline: 1px dotted #ffffff;
+}
+.icon { 
+height:auto; font-size: medium; text-align:center;margin:2px;font-family: "Pixelated MS Sans Serif";font-weight: normal;
+font-style: normal;}
 </style>
 <title>Darkwraith Covenant Industries</title>
   <meta charset="UTF-8" />
@@ -20,36 +35,40 @@ font-style: normal;background-color: black; }
 <body>
   <script src="/assets/js/windows.js"></script>
     <div class ="desktop-bg">
+      <!--These are my icons-->
       <span class="row">
-        <div class="icon">
-          <a href="./blog.html"><img src="./assets/icons/briefcase-2.png" alt="Blog"></a><br>
-          Blog
+  
+        <div class="blog icon">
+          <img src="./assets/icons/briefcase-2.png" alt="Blog" tabindex="0"><br>
+         <txt>Blog</txt> 
         </div>  
-        <div class= "icon">      
-          <a href="https://www.youtube.com/channel/UCev2WAErcSm9xdURPniM-hw"><img src="./assets/icons/camera3_vid-4.png" alt="Youtube"></a><br>
-          Youtube
+        <div class= "youtube icon">      
+          <img src="./assets/icons/camera3_vid-4.png" alt="Youtube" tabindex="0"><br>
+          <txt> Youtube</txt> 
         </div>    
         <div class= "icon">      
-          <a href="https://instagram.com/darkwraithcovenant"><img src="./assets/icons/camera3-2.png" alt="instagram"></a><br>
-          Instagram
+          <a href="https://instagram.com/darkwraithcovenant"><img src="./assets/icons/camera3-2.png" alt="instagram" tabindex="0"></a><br>
+          <txt>Instagram</txt> 
         </div>     
         <div class= "icon">      
-          <a href="./fiends.html"><img src="./assets/icons/msagent-4.png" alt="Oppositional re/search"></a><br>
-          Oppositional Re/search
+          <a href="./fiends.html"><img src="./assets/icons/msagent-4.png" alt="Oppositional re/search" tabindex="0"></a><br>
+          <txt>Oppositional<br> Re/search</txt> 
         </div>
         <div class= "snatcher icon">      
-          <img src="./assets/icons/joystick-4.png" alt="Snatcher"></a><br>
-          Snatcher
+          <img src="./assets/icons/joystick-4.png" alt="Snatcher" tabindex="0"></a><br>
+          <txt> Snatcher</txt> 
         </div>
         <div class= "test icon">      
-          <img src="./assets/icons/world-2.png" alt="Test"></a><br>
-          Test
-        </div>        
+          <img src="./assets/icons/world-2.png" alt="Test" tabindex="0"></a><br>
+          <txt> Test</txt> 
+        </div>
+  
               
       
       </span> <!--End of the Row of icons-->
 
-      <div class="window" style="width:620px;color: black;height:auto; display: none;">
+
+      <div class="window main">
         <div class="title-bar">
           <div class="title-bar-text"></div>
           <div class="title-bar-controls"><button aria-label="Minimize" id="minimize"></button><button aria-label="Maximize" id="maximize"></button>
@@ -72,5 +91,7 @@ font-style: normal;background-color: black; }
       </div>
     
     </div> <!--this is the end of the dt bg -->
+
+<script async src="//www.instagram.com/embed.js"></script>    
 </body>
 </html>
