@@ -38,7 +38,17 @@ window.onload = function() {
           document.querySelector('.title-bar-text').innerHTML = text;
           document.querySelector('.window-body').innerHTML = "Don't mind the mess, we are just testing javascript!!!";
         }
+        // Add more conditions for other icons here
+        if (classList.contains('fiends')) {
+          windowDiv.style.display = 'block';
+          currentOpenIcon = 'fiends'; // Store the opened icon's class
+          let text = "Fiends";
+          document.querySelector('.title-bar-text').innerHTML = text;
+          document.querySelector('.window-body').innerHTML = `
+          <iframe src="https://darkwraithcovenant.com/fiends" width="800" height="600" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="yes"> </iframe>
 
+          ` ;
+        }
         if (classList.contains('blog')) {
             windowDiv.style.display = 'block';
             currentOpenIcon = 'blog'; // Store the opened icon's class
