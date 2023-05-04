@@ -19,13 +19,13 @@ img.res { max-width: 100%;height: auto;filter: drop-shadow(0.25rem 0.25rem 0.5re
 
 audio.res { max-width: 100%;}
 
-iframe { width: 720px; height: 480px }
+/*iframe { width: 720px; height: 480px }/
 
  /* styles the ASCII logo */
 .logopre { background-color: #000; color: rgb(191, 0, 0); }
 
 /* the main window content block */
-.block { padding: 1rem }
+.block { padding: 1rem; margin-right: 15%; margin-left:15% }
 
 .blogtitle { font-size: large; }
 
@@ -35,9 +35,9 @@ iframe { width: 720px; height: 480px }
 .vidcap { justify-content: center; color: white; font-weight: normal; font-style: normal; text-align: center; }
 
 /* alignment for figures */
-figure.center{ text-align: center;  height:auto}
+figure.center{  height:auto}
 
-figcaption.center{ font-size: 11px; text-align: center; }
+figcaption.center{ font-size: 11px; margin-top: 5px;}
 
 /* site-wide text styling */
  p, li, ul, figcaption {

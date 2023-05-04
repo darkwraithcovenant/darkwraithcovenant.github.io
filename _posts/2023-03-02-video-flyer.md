@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: darkwraithcovenant shows music 
+tags: darkwraith shows music 
 title: March 24, 25, 26 flyers
 description: Flyers for March 24, 25, 26 shows.
 author: Darkwraith Covenant
