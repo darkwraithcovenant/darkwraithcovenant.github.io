@@ -10,7 +10,7 @@ image: "https://darkwraithcovenant.com/assets/images/meta/btchack.jpg"
 newimg: "/assets/images/gifcity/new.gif" #make this disappear after a number of days with conditionals  
 ---
 
-Curi015’s eyelids hung heavy with sleep deprivation, blinking to clear his vision. His hyper-focused engrossment in his work had derailed him from his track of time. He glanced at his hacked Casio watch, a vintage calculator model that he had modified with a Bluetooth radio, an RFID transmitter, and 8 gigabytes of storage. The 7-segment wfLCD display showed “6:15. 6-2-23”.
+Curi015’s eyelids hung heavy with sleep deprivation, blinking to clear his vision. His hyper-focused engrossment in his work had derailed him from his track of time. He glanced at his hacked Casio watch, a vintage calculator model that he had modified with a Bluetooth radio, an RFID transmitter, and 8 gigabytes of storage. The 7-segment LCD display showed “6:15. 6-2-23”.
 
 Curi015 had pulled another all-nighter in his room, writing code in his family’s tiny 2-bedroom Bronx apartment. He had kept himself awake with energy drinks and spicy snacks from the bodega, working on a project that would make headlines and shake up an entire industry.
 <!-- excerpt-end -->
@@ -54,7 +54,9 @@ She had asked him where he was getting his money for all the computer parts and 
 
 “Guys, I got paid today for the big job. I can’t say more but, holy shit I feel rich lol 🤯. I hope yall pulled all of your money out of BTC 😹.” he typed into the Discord channel he and his friends frequented. One by one, the small community of hackers and makers came together like the vibrant threads on a cascading loom, weaving together and falling like a colorful waterfall, as they congratulated Curi015 on his success. 
 
-”duuuude, based” “yessss” “whoa congrats” “🔥🔥🔥”, the Discord sound notifications bla-dooped in a rapid-fire, staccato succession. Before he could even relish in the applause, his face-down phone rattled on his desk with a new notification. He picked up the phone, and saw a headline on his news app that would forever live on in infamy. “Largest US Bitcoin mining facility destroyed in apparent eco-terror attack. Losses in the billions.” He took a moment to absorb and process what he had just read, put down his phone, sat back in his chair, and stroked Plague’s fur. That was me, he thought. 
+”duuuude, based” “yessss” “whoa congrats” “🔥🔥🔥”, the Discord sound notifications bla-dooped in a rapid-fire, staccato succession. Before he could even relish in the applause, his face-down phone rattled on his desk with a new notification. He picked up the phone, and saw a headline on his news app that would forever live on in infamy. “Largest US Bitcoin mining facility destroyed in apparent eco-terror attack. Losses in the billions.”  
+
+He took a moment to absorb and process what he had just read, put down his phone, sat back in his chair, and stroked Plague’s fur. *That was me*, he thought. 
 
 
 
