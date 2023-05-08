@@ -19,18 +19,17 @@ img.res { max-width: 100%;height: auto;filter: drop-shadow(0.25rem 0.25rem 0.5re
 
 audio.res { max-width: 100%;}
 
-/*iframe { width: 720px; height: 480px }/
-
  /* styles the ASCII logo */
 .logopre { background-color: #000; color: rgb(191, 0, 0); }
-
+ /* styles codebox pres */
+.codepre { background-color:black;  white-space: pre-wrap; font-size: 15px; color:white;}
 /* the main window content block */
 .block { padding: 1rem; margin-right: 15%; margin-left:15% }
 
 .blogtitle { font-size: large; }
 
 /* alignment for videos */
-.vidalign { padding: 1em; text-align: center; display: flex; justify-content: center;  }
+.vidalign { padding: 1em; text-align: center; display: flex;  }
 
 .vidcap { justify-content: center; color: white; font-weight: normal; font-style: normal; text-align: center; }
 
