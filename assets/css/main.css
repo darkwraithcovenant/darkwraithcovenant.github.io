@@ -29,7 +29,7 @@ audio.res { max-width: 100%;}
 .blogtitle { font-size: large; }
 
 /* alignment for videos */
-.vidalign { padding: 1em; text-align: center; display: flex;  }
+.vidalign { padding: 1em; display: flex;  }
 
 .vidcap { justify-content: center; color: white; font-weight: normal; font-style: normal; text-align: center; }
 
