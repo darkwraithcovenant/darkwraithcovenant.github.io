@@ -53,9 +53,9 @@ figcaption.center{ font-size: 11px; margin-top: 5px;}
 li.nobullet { list-style-type: none;}
 
 /* resize ASCII logo for mobile */
-/* @media only screen and (max-width: 950px) { 
+@media only screen and (max-width: 950px) { 
   pre {font-size : 3pt;}
-} */
+}
 
 /* link stuff */
 /* word wrapping for links */
