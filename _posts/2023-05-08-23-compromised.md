@@ -27,9 +27,8 @@ He had asked for a PC for his 8th birthday — and for his 9th, and his 10th —
 He checked his Proton mail and gulped down the last morsel of his breakfast, scratching the plate with his fork. The first message on the page had a bolded subject with the words “It’s done.” Stress hormones pumped through his body, thickening his blood with anxiety. It reminded him of the time during the pandemic when his building’s belligerently drunk superintendent ran through the halls, threatening to evict anyone who stopped paying rent. A tiny knife slit through the silence with an enthusiastic mouse tap. The email sent from the address chanidagger@protonmail.com read as follows: 
 <pre class="codepre">
 Phase 1 is complete. We ul’d the pkg you sent with the goods we asked for and it worked. The fac is compt, and ops are underway at the time of this writing.   
-We found everything we needed on subject A through OSINT on birdsite. 
-Dumbfuck also uses the same un everywhere. We were able to SocEng his 
-wife and get his sec questions that way.  
+We found everything we needed on subject A through OSINT on birdsite. Dumbfuck also uses the same un everywhere. We were able to SocEng his wife and get his sec questions that way.  
+
 Deadass easy money.   
 
 Check your wallet for payment, as agreed upon. We’re doing it!  
