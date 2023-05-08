@@ -38,7 +38,7 @@ In this case, I downloaded random hi-res picture of a cyberpunk anime girl from 
 </figure>
 
 **Step 2: Prepare the image.**  
-Open the image in a photo preview app on your computer that can do fullscreen. You will get the best results if the program can fullscreen and surround the image with black bars. I use the Preview App built-in to OSX. 
+Open the image in a photo preview app on your computer that can do fullscreen. You will get the best results if the program can fullscreen and surround the image with black bars. I use the Preview App built-in to MacOS. 
 <figure class="center">
 <img src="/assets/images/blog_images/prevcy.png" class="res" alt="Cyberpunk preview">
 </figure>
