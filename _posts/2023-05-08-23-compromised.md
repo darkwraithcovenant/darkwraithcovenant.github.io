@@ -37,7 +37,7 @@ Check your wallet for payment, as agreed upon. We’re doing it!
 Hack the Planet, Fuck Bitcoin, and Fuck NFTs,  
 🏳️‍⚧️Chani🏳️‍⚧️  
 she/her  
-https://chanichan50.github.io  
+https://chanichan50.github.io 
 
 Md5: e8b05901d4254f4dfd7e527b5e073f5d  
 SHA-1: 88ac5c687a260b565b5ad5e5d3569640043483a3  
@@ -51,7 +51,7 @@ She had asked him where he was getting his money for all the computer parts and 
 
 “That’s great mijo!” She beamed. She never stopped being a proud parent, even though he had failed in school, relationships, and success. She still remembered the letter from his 3rd grade teacher, who said her son was gifted and far ahead of his peers in math and science. 
 
-“Guys, I got paid today for the big job. I can’t say more but, holy shit I feel rich lol 🤯. I hope yall pulled all of your money out of BTC 😹.” he typed into the Discord channel he and his friends frequented. One by one, the small community of hackers and makers came together like the vibrant threads on a cascading loom, weaving together and falling like a colorful waterfall, as they congratulated Curi015 on his success. 
+“Guys, I got paid today for the big job. I can’t say more but, holy shit I feel rich lol 🤯. I hope yall pulled all of your money out of BTC 😹.” he typed into the Discord channel on the server he and his friends frequented. One by one, the small community of hackers and makers came together like the vibrant threads on a cascading loom, weaving together and falling like a colorful waterfall, as they congratulated Curi015 on his success. 
 
 ”duuuude, based” “yessss” “whoa congrats” “🔥🔥🔥”, the Discord sound notifications bla-dooped in a rapid-fire, staccato succession. Before he could even relish in the applause, his face-down phone rattled on his desk with a new notification. He picked up the phone, and saw a headline on his news app that would forever live on in infamy. “Largest US Bitcoin mining facility destroyed in apparent eco-terror attack. Losses in the billions.”  
 
