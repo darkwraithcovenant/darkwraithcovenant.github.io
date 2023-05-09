@@ -37,6 +37,7 @@ Check your wallet for payment, as agreed upon. We’re doing it!
 Hack the Planet, Fuck Bitcoin, and Fuck NFTs,  
 🏳️‍⚧️Chani🏳️‍⚧️  
 she/her  
+https://chanichan50.github.io  
 
 Md5: e8b05901d4254f4dfd7e527b5e073f5d  
 SHA-1: 88ac5c687a260b565b5ad5e5d3569640043483a3  
