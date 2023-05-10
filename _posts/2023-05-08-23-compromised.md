@@ -7,7 +7,7 @@ badge: "/assets/images/badges/made_with_windows.gif"
 tags: tech programming fiction
 published: True
 image: "https://darkwraithcovenant.com/assets/images/meta/btchack.jpg"
-newimg: "/assets/images/gifcity/new.gif" #make this disappear after a number of days with conditionals  
+newimg: #"/assets/images/gifcity/new.gif" #make this disappear after a number of days with conditionals  
 ---
 
 Curi015’s eyelids hung heavy with sleep deprivation, blinking to clear his vision. His hyper-focused engrossment in his work had derailed him from his track of time. He glanced at his hacked Casio watch, a vintage calculator model that he had modified with a Bluetooth radio, an RFID transmitter, and 8 gigabytes of storage. The 7-segment LCD display showed “6:15. 6-2-23”.
