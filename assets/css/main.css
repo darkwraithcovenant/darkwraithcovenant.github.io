@@ -30,6 +30,9 @@ audio.res { max-width: 100%;}
 
 /* alignment for videos */
 .vidalign { padding: 1em; display: flex;  }
+.vidalign iframe {
+  max-width: 100%;
+}
 
 .vidcap { justify-content: center; color: white; font-weight: normal; font-style: normal; text-align: center; }
 
