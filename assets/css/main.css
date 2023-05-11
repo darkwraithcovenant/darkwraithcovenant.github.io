@@ -1,4 +1,4 @@
-body { color: white; background: rgb(45, 15, 15);cursor: url(/assets/images/cursor.cur), auto; padding: 1rem;}
+body { color: white; background: rgb(45, 15, 15);cursor: url(/assets/images/cursor.cur), auto; padding: 100px;}
  
 .header { display: flex; justify-content: center;}
 
