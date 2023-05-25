@@ -1,14 +1,14 @@
 - name: HOME
   link: /
 - name: BLOG
-  link: /blog.html
+  link: /blog
 - name: MUSIC
-  link: /music.html
+  link: /music
 - name: CORPORATE
-  link: /corporate.html
+  link: /corporate
 - name: FIENDS
-  link: /fiends.html 
+  link: /fiends
 - name: ABOUT
-  link: /about.html
+  link: /about
 - name: SHOP
   link: https://shop.darkwraithcovenant.com
