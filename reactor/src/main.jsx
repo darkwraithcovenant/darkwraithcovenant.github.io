@@ -1,6 +1,5 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import Main from './components/main'
 import Exploder from './components/exploder'
 import Windows from './components/windows'
 
