@@ -5,8 +5,9 @@ badge: "/assets/images/badges/publicdomain.gif"
 ---
 
 
-<p><img src="./assets/images/gifcity/nuke.gif" class="responsive">May 15 @ The Crypt, Olympia - MVTANT, Static Ghost, Michael Landscape (mem. of Chrome Corps)<img src="./assets/images/gifcity/nuke.gif" class="responsive"></p>
-<p><img src="./assets/images/gifcity/nuke.gif" class="responsive">May 25 @ Shanghai Tunnel - Physical Wash, Bear Spray and Feed Fatigue<img src="./assets/images/gifcity/nuke.gif" class="responsive"></p>
+<p><img src="./assets/images/gifcity/nuke.gif" class="responsive">October 4 @ The Coffin Club - Portland, OR<img src="./assets/images/gifcity/nuke.gif" class="responsive"></p>
+<p><img src="./assets/images/gifcity/nuke.gif" class="responsive">October 20 @ Real Art Tacoma - Tacoma, WA<img src="./assets/images/gifcity/nuke.gif" class="responsive"></p>
+<p><img src="./assets/images/gifcity/nuke.gif" class="responsive">October 22 @ How to Destroy the Universe - Part 8 festival - TBA<img src="./assets/images/gifcity/nuke.gif" class="responsive"></p>
 
 <div class="vidalign">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3bP4ZFvVcy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
