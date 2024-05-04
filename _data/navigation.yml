@@ -8,6 +8,8 @@
   link: /dist
 - name: FIENDS
   link: /fiends
+- name: ARTWORK
+  link: /artwork
 - name: ABOUT
   link: /about
 - name: SHOP
