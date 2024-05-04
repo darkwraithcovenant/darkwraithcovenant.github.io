@@ -5,7 +5,7 @@ badge: "/assets/images/badges/publicdomain.gif"
 ---
 
 
-<p><img src="./assets/images/gifcity/nuke.gif" class="responsive">May 4th @ Turn, Turn, Turn - Portland, OR<img src="./assets/images/gifcity/nuke.gif" class="responsive"></p>
+<p><img src="./assets/images/gifcity/nuke.gif" class="responsive">August 8 @ Turn, Turn, Turn - Portland, OR<img src="./assets/images/gifcity/nuke.gif" class="responsive"></p>
 
 <div class="vidalign">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3bP4ZFvVcy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
